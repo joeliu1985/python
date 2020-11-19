@@ -1,6 +1,7 @@
 import random
 import time
 import requests
+import pymysql
 from pymongo import MongoClient
 
 
@@ -21,9 +22,9 @@ class CommentPhotoCrawler(object):
                        '=https%3A%2F%2Fweibo.cn%2F&backTitle=%CE%A2%B2%A9&vt='
         }
         self.session = None
-        client = MongoClient('127.0.0.1', 27017)
-        db = client.Baidu_Robin
-        self.col = db.sina_comments
+        # client = MongoClient('127.0.0.1', 27017)
+        # db = client.Baidu_Robin
+        # self.col = db.sina_comments
 
         self.max_id = None
         self.max_id_type = None
@@ -61,20 +62,36 @@ class CommentPhotoCrawler(object):
 
     def get_data(self, url, page):
         response = self.session.get(url, headers=self.login_headers)
-        try:
-            self.col.insert_many(response.json()['data']['data'])
-            self.max_id = response.json()['data']['max_id']  # 找出下一页需要用的max_id
-            self.max_id_type = response.json()['data']['max_id_type']  # 找出下一页需要用的max_id_type，每爬16页会变更
 
-            print('Successfully crawled data from page : {}'.format(page+1))
-            time.sleep(random.random()*5)
-        except:  # 处理采集频率过高被反爬的情况
-            print('Can not crawl page : {}, crawler stopped! Crawler will retry later.'.format(page+1))
-            time.sleep(60)
-            self.get_data(url, page)
+        # 打开数据库连接，不指定数据库
+        conn = pymysql.connect('localhost', 'root', '123456')
+        conn.select_db('pythondb')
+        # 获取游标
+        cur = conn.cursor()
+
+        # 另一种插入数据的方式，通过字符串传入值
+        sql = "insert into weibo_comment(text) values(%s)"
+        list=response.json()['data']['data'];
+        list2=[]
+        for obj in list:
+            list2.append(obj.get('text'))
+
+        insert = cur.executemany(sql, list2)
+        print('批量插入返回受影响的行数：', insert)
+        cur.close()
+        conn.commit()
+        conn.close()
+        print('sql执行成功')
+        # self.col.insert_many(response.json()['data']['data'])
+        self.max_id = response.json()['data']['max_id']  # 找出下一页需要用的max_id
+        self.max_id_type = response.json()['data']['max_id_type']  # 找出下一页需要用的max_id_type，每爬16页会变更
+
+        print('Successfully crawled data from page : {}'.format(page + 1))
+        time.sleep(random.random() * 5)
+
 
 
 if __name__ == '__main__':
     com = CommentPhotoCrawler()
-    com.login('', '')  # 传入你的微博用户名和密码
-    com.get_comments(mid=, max_page=)
+    com.login('joeliu1985@outlook.com', 'maomao150')  # 传入你的微博用户名和密码
+    com.get_comments(mid='4546566562783326', max_page=20)
