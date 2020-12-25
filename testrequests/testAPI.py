@@ -1,4 +1,6 @@
 import requests
+import sys
+
 url="https://api.bilibili.com/x/click-interface/web/heartbeat"
 #Form data 格式
 postData = {
@@ -18,4 +20,7 @@ postData = {
 response = requests.post(url,data=postData)
 print(response.json())
 
+assert response.json()['message']=='0'
+
+assert ('win' in sys.platform)
 
