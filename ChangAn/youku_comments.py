@@ -12,7 +12,9 @@ class CommentCrawler(object):
 
     def get_video_id(self, v_url):
         res = requests.get(v_url)
-        idx = res.text.find("videoId: '")
+        idx = res.text.find("window.PageConfig = '")
+        res.text.find()
+        data = json.loads(res.text[idx:0])
         if idx != -1:
             self.video_id = res.text[idx+10:idx+20]
             print('Video ID for corresponding url is :{}'.format(self.video_id))
@@ -33,7 +35,7 @@ class CommentCrawler(object):
         while 1:
             try:
                 res = requests.get(base_url.format(self.video_id, page), timeout=5)
-                data = json.loads(res.text[res.text.find('{'):-1])
+                data = json.loads(res.text[16:-1])
                 for com in data['data']['comment']:
                     self.col.update({'id': com['id']}, {'$set': com}, upsert=True)
 

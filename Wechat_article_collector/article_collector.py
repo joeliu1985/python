@@ -9,7 +9,7 @@ from add_hyperlinks import add_hyperlink
 # 文章爬取
 def get_articles(headline=True, original=True, timedel=1, add_account=None):
 
-    with open('gzh.txt', 'r') as f:
+    with open('gzh.txt', 'r',encoding='utf-8') as f:
         accounts = [account.strip() for account in f.readlines()]
     # add_account必须是一个list或None
     if add_account is not None:
@@ -66,7 +66,7 @@ def to_msdocx(data):
     p.paragraph_format.alignment = WD_PARAGRAPH_ALIGNMENT.CENTER
     document.add_picture('比心.JPG', width=Inches(1))
     document.paragraphs[-1].alignment = WD_PARAGRAPH_ALIGNMENT.CENTER
-    document.save('/Users/apple/Desktop/{}.docx'.format(header))
+    document.save('D:/doc/{}.docx'.format(header))
 
 
 if __name__ == "__main__":

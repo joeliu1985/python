@@ -15,7 +15,7 @@ def sxs_crawl(pages=30, kw='数据挖掘', c='全国'):
         else:
             break
     job_list = pd.DataFrame(job_list_data)
-    job_list.to_csv('/Users/apple/Desktop/job_list.csv', index=False)
+    job_list.to_csv('H:\python\interesting-python\shixiseng_packet_capture\job_list.csv', index=False)
 
     # 职位详情ID爬取
     uuids = list(job_list['uuid'])
@@ -24,9 +24,10 @@ def sxs_crawl(pages=30, kw='数据挖掘', c='全国'):
     job_detailed_data = []
     for url in job_detailed_url:
         response = requests.get(url)
-        job_detailed_data.append(response.json()['msg'])
-    job_detailed = pd.DataFrame(job_detailed_data)
-    job_detailed.to_csv('/Users/apple/Desktop/job_detailed.csv', index=False)
+        if  not response.json().get('msg') == '该职位已下线':
+            job_detailed_data.append(response.json()['msg'])
+            job_detailed = pd.DataFrame(job_detailed_data)
+            job_detailed.to_csv('H:\python\interesting-python\shixiseng_packet_capture\job_detailed.csv', index=False)
 
     # 公司信息爬取
     cuuids = list(job_detailed['cuuid'])
@@ -36,7 +37,7 @@ def sxs_crawl(pages=30, kw='数据挖掘', c='全国'):
         response = requests.get(url)
         com_detailed_data.append(response.json()['msg'])
     com_detailed = pd.DataFrame(com_detailed_data)
-    com_detailed.to_csv('/Users/apple/Desktop/com_detailed.csv', index=False)
+    com_detailed.to_csv('H:\python\interesting-python\shixiseng_packet_capture\com_detailed.csv', index=False)
 
     print('Successfully crawled {} jobs.'.format(job_list.shape[0]))
 

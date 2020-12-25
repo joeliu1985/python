@@ -1,224 +1,190 @@
-ad_type,city,cname,day,deliver,ftype,invite,maxsal,minsal,name,refresh,type,url,uuid
-f,武汉,武汉安天,4,False,1,False,120,80,数据挖掘工程师,05-16,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-16/GQVOh0SP2CaTERF.jpg,inn_ighmydzsvyfh
-f,武汉,武汉安天,4,False,1,False,150,100,数据挖掘实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-16/GQVOh0SP2CaTERF.jpg,inn_ubeigbjabtyy
-f,广州,网易游戏,4,False,1,False,200,100,语料数据标注实习生-广州,05-16,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-22/mWSIgB9Di2Ofe6A.jpg,inn_l1wby0is47ei
-f,北京,中科院软件所,4,False,1,False,200,120,安全工程师,05-16,intern,https://sxsimg.xiaoyuanzhao.com/F2/D6/F2DCE183DB4D010C49348C45077FD9D6.png,inn_4amfwd1dkfza
-f,深圳,IDataAPI,5,False,1,False,200,100,自然语言处理（NLP）实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/AB/0A/AB483CF33437B4781DDC757C6206C30A.png,inn_4m5klplpcrm6
-f,"广州,福州,厦门,深圳,上海,苏州",鼎捷软件,5,False,1,False,600,500,ERP实施顾问（E优才）,05-16,intern,https://sxsimg.xiaoyuanzhao.com/76/42/7684EAA530573313EB296B9E6D348942.jpg,inn_zdehtxaxvybk
-f,福州,鼎捷软件,5,False,1,False,600,500,实施顾问（PLM）,05-16,intern,https://sxsimg.xiaoyuanzhao.com/76/42/7684EAA530573313EB296B9E6D348942.jpg,inn_jf2wxixfkgbp
-f,广州,鼎捷软件,5,False,1,False,600,500,助理实施顾问,05-16,intern,https://sxsimg.xiaoyuanzhao.com/76/42/7684EAA530573313EB296B9E6D348942.jpg,inn_u4g4ilowkhhm
-f,武汉,看电影了没,5,False,1,False,200,120,数据分析,05-16,intern,https://sxsimg.xiaoyuanzhao.com/57/27/5702FDA72AF3A0287732ED5FB63EA627.jpg,inn_i36yzy90q2sq
-f,全国,Teradata天睿信科,4,False,1,False,200,120,数据分析与挖掘,05-16,intern,https://sxsimg.xiaoyuanzhao.com/54/D3/5473BC41FD084B0D203214C1A5BAC3D3.png,inn_haz03zdprlgu
-f,重庆,赛迪技术,5,False,1,False,160,100,数据挖掘/机器学习,05-16,intern,https://sxsimg.xiaoyuanzhao.com/A7/53/A765765804BE975E784155C9F7497C53.png,inn_ii4ueefp6u6b
-f,上海,同业云,5,False,1,False,550,500,高级数据挖掘工程师（正编）,05-16,intern,https://sxsimg.xiaoyuanzhao.com/A4/FA/A436BE608E0077FA6A03D0712543C3FA.png,inn_jmnopkfagvwx
-f,上海,安客诚信息,4,False,1,False,140,120,数据分析实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/57/57/57F680C0D050B0CCAAA912FC45A90357.png,inn_gotsiptkwv0d
-f,北京,知道创宇,5,False,1,False,120,90,大数据开发实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/11/DB/118EB5C442ACB289F6258B4A62C3BCDB.png,inn_xtigdha4tela
-f,上海,中估联,3,False,1,False,150,100,数据采集实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/2D/4E/2DFB6560ABBF174585B018914056F44E.png,inn_7lymwmd2xvdg
-f,广州,探迹,4,False,1,False,150,80,爬虫开发实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/84/EA/840111AC10F5D7D35D22026EBAAFC2EA.png,inn_zzdcpgtbxqi8
-f,青岛,地比图软件,5,False,0,False,8000,5000,大数据工程师实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/13/AF/130C8281DDDAA619A2B8D7B7C4E6C1AF.png,inn_t44jaeftdzwa
-f,北京,百度,5,False,1,False,200,150,数据挖掘实习工程师（算法）,05-16,intern,https://sxsimg.xiaoyuanzhao.com/0A/80/0A4DB3F4159F586B0E419CCFE6A34D80.png,inn_etx6rde1nvvo
-f,深圳,平安科技,4,False,1,False,300,200,数据挖掘工程师,05-16,intern,https://sxsimg.xiaoyuanzhao.com/99/B7/9934093BA0C3A665415E2CDAAAC7D5B7.jpeg,inn_dx3yksh7i3v9
-f,上海,汇通租赁,4,False,1,False,130,110,数据分析实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/07/DF/078C74C69CDDC635332916401FA6B1DF.png,inn_mnvh2cw0k0ed
-f,武汉,武汉安天,4,False,1,False,120,80,数据挖掘工程师,05-16,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-16/GQVOh0SP2CaTERF.jpg,inn_ighmydzsvyfh
-f,武汉,武汉安天,4,False,1,False,150,100,数据挖掘实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-16/GQVOh0SP2CaTERF.jpg,inn_ubeigbjabtyy
-f,广州,网易游戏,4,False,1,False,200,100,语料数据标注实习生-广州,05-16,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-22/mWSIgB9Di2Ofe6A.jpg,inn_l1wby0is47ei
-f,北京,中科院软件所,4,False,1,False,200,120,安全工程师,05-16,intern,https://sxsimg.xiaoyuanzhao.com/F2/D6/F2DCE183DB4D010C49348C45077FD9D6.png,inn_4amfwd1dkfza
-f,深圳,IDataAPI,5,False,1,False,200,100,自然语言处理（NLP）实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/AB/0A/AB483CF33437B4781DDC757C6206C30A.png,inn_4m5klplpcrm6
-f,"广州,福州,厦门,深圳,上海,苏州",鼎捷软件,5,False,1,False,600,500,ERP实施顾问（E优才）,05-16,intern,https://sxsimg.xiaoyuanzhao.com/76/42/7684EAA530573313EB296B9E6D348942.jpg,inn_zdehtxaxvybk
-f,福州,鼎捷软件,5,False,1,False,600,500,实施顾问（PLM）,05-16,intern,https://sxsimg.xiaoyuanzhao.com/76/42/7684EAA530573313EB296B9E6D348942.jpg,inn_jf2wxixfkgbp
-f,广州,鼎捷软件,5,False,1,False,600,500,助理实施顾问,05-16,intern,https://sxsimg.xiaoyuanzhao.com/76/42/7684EAA530573313EB296B9E6D348942.jpg,inn_u4g4ilowkhhm
-f,武汉,看电影了没,5,False,1,False,200,120,数据分析,05-16,intern,https://sxsimg.xiaoyuanzhao.com/57/27/5702FDA72AF3A0287732ED5FB63EA627.jpg,inn_i36yzy90q2sq
-f,全国,Teradata天睿信科,4,False,1,False,200,120,数据分析与挖掘,05-16,intern,https://sxsimg.xiaoyuanzhao.com/54/D3/5473BC41FD084B0D203214C1A5BAC3D3.png,inn_haz03zdprlgu
-f,重庆,赛迪技术,5,False,1,False,160,100,数据挖掘/机器学习,05-16,intern,https://sxsimg.xiaoyuanzhao.com/A7/53/A765765804BE975E784155C9F7497C53.png,inn_ii4ueefp6u6b
-f,上海,同业云,5,False,1,False,550,500,高级数据挖掘工程师（正编）,05-16,intern,https://sxsimg.xiaoyuanzhao.com/A4/FA/A436BE608E0077FA6A03D0712543C3FA.png,inn_jmnopkfagvwx
-f,上海,安客诚信息,4,False,1,False,140,120,数据分析实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/57/57/57F680C0D050B0CCAAA912FC45A90357.png,inn_gotsiptkwv0d
-f,北京,知道创宇,5,False,1,False,120,90,大数据开发实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/11/DB/118EB5C442ACB289F6258B4A62C3BCDB.png,inn_xtigdha4tela
-f,上海,中估联,3,False,1,False,150,100,数据采集实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/2D/4E/2DFB6560ABBF174585B018914056F44E.png,inn_7lymwmd2xvdg
-f,广州,探迹,4,False,1,False,150,80,爬虫开发实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/84/EA/840111AC10F5D7D35D22026EBAAFC2EA.png,inn_zzdcpgtbxqi8
-f,青岛,地比图软件,5,False,0,False,8000,5000,大数据工程师实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/13/AF/130C8281DDDAA619A2B8D7B7C4E6C1AF.png,inn_t44jaeftdzwa
-f,北京,百度,5,False,1,False,200,150,数据挖掘实习工程师（算法）,05-16,intern,https://sxsimg.xiaoyuanzhao.com/0A/80/0A4DB3F4159F586B0E419CCFE6A34D80.png,inn_etx6rde1nvvo
-f,深圳,平安科技,4,False,1,False,300,200,数据挖掘工程师,05-16,intern,https://sxsimg.xiaoyuanzhao.com/99/B7/9934093BA0C3A665415E2CDAAAC7D5B7.jpeg,inn_dx3yksh7i3v9
-f,上海,汇通租赁,4,False,1,False,130,110,数据分析实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/07/DF/078C74C69CDDC635332916401FA6B1DF.png,inn_mnvh2cw0k0ed
-f,广州,精点数据,4,False,1,False,200,100,大数据分析/挖掘实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/22/B2/22CC264BEAF2CE98C4882C22D9492DB2.png,inn_1monbejdh4hj
-f,北京,滴滴出行,5,False,1,False,200,150,数据分析实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/3C/D1/3C0BD69C2DC0C5222A061635FDC55BD1.jpg,inn_cayy9xwcyi8r
-f,北京,金山软件,4,False,1,False,120,100,技术支持实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/37/13/3792E72542CDB92E2A951ECC61A34613.jpg,inn_d0crqkvilvqk
-f,成都,瑞数信息,3,False,1,False,150,140,安全研究实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/0F/47/0F554C4F8551D2B810F95D312081D647.png,inn_divsnsvrrnhi
-f,上海,华院数据,5,False,1,False,300,150,自然语言处理\数据挖掘工,05-16,intern,https://sxsimg.xiaoyuanzhao.com/A6/2F/A6E5AC0CBBFF93E3E8A2F078A306422F.jpg,inn_nib41hzexd1j
-f,上海,华院数据,5,False,1,False,200,150,计算机研究员,05-16,intern,https://sxsimg.xiaoyuanzhao.com/A6/2F/A6E5AC0CBBFF93E3E8A2F078A306422F.jpg,inn_wee2wpagrgzl
-f,北京,天眼查,4,False,1,False,400,200,算法实习生（数据挖掘方向）,05-16,intern,https://sxsimg.xiaoyuanzhao.com/37/F8/3753A483BED8D94592C969EB44569BF8.png,inn_2vfnprrtyklt
-f,深圳,北斗院,5,False,1,False,100,99,数据挖掘实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/2C/E9/2CBD1D0433DB49CEDEDDAA044BA9B3E9.png,inn_pmjgeec2jxij
-f,上海,百胜中国,4,False,1,False,200,199,数据分析实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/BC/28/BC9E52C4D3CF4C7266746E2156A1B028.png,inn_xzmmswuxpuho
-f,青岛,青岛莱信,5,False,1,False,200,150,大数据分析师实习生,05-16,intern,https://sxsimg.xiaoyuanzhao.com/AB/50/AB5D542A45C73AF8E10B7FB6424A3F50.jpg,inn_o5ojidacjgtd
-f,广州,广州银行信用卡中心,3,False,1,False,80,79,BI开发实习生,05-15,intern,https://sxsimg.xiaoyuanzhao.com/6C/9C/6CB2E7EC5B30AFEA56F73924C9844E9C.jpg,inn_rxv9eoknafhv
-f,宁波,萌牙,5,False,1,False,180,120,数据分析师/数据实习生,05-15,intern,https://sxsimg.xiaoyuanzhao.com/00/7A/0090D5AC76FF6ECF0D1A029944E4C87A.png,inn_cbth6d1rqure
-f,宁波,萌牙,5,False,1,False,180,120,数据分析实习生,05-15,intern,https://sxsimg.xiaoyuanzhao.com/00/7A/0090D5AC76FF6ECF0D1A029944E4C87A.png,inn_q2gsifs0uxqy
-f,全国,人人车,5,False,1,False,200,150,数据方向产品实习生,05-15,intern,https://sxsimg.xiaoyuanzhao.com/5A/BF/5A266301AD7412A4E6B12B1E03971BBF.jpg,inn_qhkura1u6zc7
-f,北京,人人车,5,False,1,False,200,150,数据挖掘实习生,05-15,intern,https://sxsimg.xiaoyuanzhao.com/5A/BF/5A266301AD7412A4E6B12B1E03971BBF.jpg,inn_get0s3r9csrl
-f,北京,途家网,5,False,1,False,180,150,海外事业部-爬虫工程师（实习）,05-15,intern,https://sxsimg.xiaoyuanzhao.com/55/01/55905E3F07033E92F2BA7489B7B15401.jpg,inn_lhedopahcgvc
-f,南京,佳泰得,3,False,1,False,150,100,程序员（储备经理）,05-15,intern,https://sxsimg.xiaoyuanzhao.com/BB/2D/BB42507654D5F169C05789FDEF01AA2D.png,inn_myuuj9faa31y
-f,南京,佳泰得,5,False,1,False,150,100,大数据工程师（储备经理）,05-15,intern,https://sxsimg.xiaoyuanzhao.com/BB/2D/BB42507654D5F169C05789FDEF01AA2D.png,inn_sdwf2a0qksds
-f,北京,感易智能,4,False,1,False,400,250,数据挖掘算法实习生,05-15,intern,https://sxsimg.xiaoyuanzhao.com/54/63/5466ED62273D397448CEE4E635AA7E63.png,inn_o8imzoxkzeps
-f,北京,小糖互联,4,False,1,False,200,150,数据分析师,05-15,intern,https://sxsimg.xiaoyuanzhao.com/7B/5A/7BD019957BD80557FFDF08DDAE435B5A.jpg,inn_ehu1utmpkkbp
-f,广州,Datastory数说故事,5,False,1,False,260,130,爬虫工程师实习生-广州-00143,05-15,intern,https://sxsimg.xiaoyuanzhao.com/4B/DE/4BCA14665F5C0B4AA5DB19456680B3DE.png,inn_qxlfppzxeg8g
-f,上海,克顿传媒,5,False,1,False,150,100,助理分析师（影视制作方向）,05-15,intern,https://sxsimg.xiaoyuanzhao.com/8E/D5/8E0C2708C7DC158E5786E9AE638823D5.png,inn_pp6j9eljuiq9
-f,北京,途家网,4,False,1,False,180,150,爬虫工程师,05-15,intern,https://sxsimg.xiaoyuanzhao.com/26/D9/26C01C71908CC0942AF7B34039E9C7D9.jpg,inn_7osopqua8mdi
-f,北京,国科大数据挖掘与高性能计算实验室,5,False,1,False,300,150,FPGA工程师,05-15,intern,https://sxsimg.xiaoyuanzhao.com/6D/A6/6DC2EFDF87AE79B1717ADBB429132BA6.jpg,inn_bfzcuiu1plli
-f,上海,群星金融,5,False,1,False,150,130,数据分析,05-15,intern,https://sxsimg.xiaoyuanzhao.com/E0/85/E049BDED88C35900A8EF47AF2FB48B85.png,inn_cwlbbk7tk3wl
-f,北京,国科大数据挖掘与高性能计算实验室,5,False,0,False,300,150,硬件设计工程师,05-15,intern,https://sxsimg.xiaoyuanzhao.com/6D/A6/6DC2EFDF87AE79B1717ADBB429132BA6.jpg,inn_xnjwzibb46wh
-f,北京,国科大数据挖掘与高性能计算实验室,5,False,0,False,300,150,软件工程师,05-15,intern,https://sxsimg.xiaoyuanzhao.com/6D/A6/6DC2EFDF87AE79B1717ADBB429132BA6.jpg,inn_vhpul18fcazp
-f,北京,美团点评,4,False,1,False,300,200,机器学习/数据挖掘算法工程师（实习）,05-15,intern,https://sxsimg.xiaoyuanzhao.com/B3/68/B376BC157CC6781EEA49E553BF807668.jpg,inn_3ixfi82gppi2
-f,上海,麦子健康科技,2,False,1,False,300,200,人工智能实习生（算法/机器学习/深度学习）,05-15,intern,https://sxsimg.xiaoyuanzhao.com/B1/B1/B1F1BFE4778C54240317BCFBC5C115B1.png,inn_mzrhaht9sek7
-f,北京,感易智能,4,False,1,False,400,200,NLP数据标注实习生,05-15,intern,https://sxsimg.xiaoyuanzhao.com/54/63/5466ED62273D397448CEE4E635AA7E63.png,inn_gw2q17gq93eo
-f,北京,鼎泰泽丰,5,False,1,False,200,100,数据挖掘算法工程师,05-15,intern,https://sxsimg.xiaoyuanzhao.com/CF/6D/CFDE6A2C877E529BAD2E75AA451F716D.png,inn_eki2cv8cxpck
-f,北京,申请方,3,False,1,False,120,100,数据建模实习生,05-15,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-43/eRmTOiQFMlf7HUN.jpg,inn_ici8escmai2m
-f,北京,滴滴出行,4,False,1,False,300,200,数据挖掘实习生,05-15,intern,https://sxsimg.xiaoyuanzhao.com/CF/03/CF68C6D9B996C165F8281689193D7303.jpg,inn_u3ev64bnf5nv
-f,厦门,白山云科技,5,False,1,False,199,150,数据挖掘工程师(校招）,05-15,intern,https://sxsimg.xiaoyuanzhao.com/2F/B2/2FB7EC440126B775AD4A0A2A237D28B2.jpg,inn_tyvvewzi9wmc
-f,北京,摩比神奇,5,False,1,False,200,150,数据分析师,05-15,intern,https://sxsimg.xiaoyuanzhao.com/FA/CE/FAF0889843AB96D6E57BC9AB13E55DCE.jpg,inn_fcss4ebugf1m
-f,北京,脉讯在线,4,False,1,False,400,300,数据挖掘实习,05-15,intern,https://sxsimg.xiaoyuanzhao.com/D0/57/D08F6EF250D4F6021F4179300373F657.png,inn_uyknxg8lazng
-f,上海,Quantum One,3,False,1,False,200,150,大数据实习生,05-15,intern,https://sxsimg.xiaoyuanzhao.com/2E/1B/2E7F9B49952A4454E27ACF53B305BD1B.jpg,inn_9e3ysxs2ckqx
-f,合肥,乐职网,5,False,1,False,200,120,数据采集工程师,05-15,intern,https://sxsimg.xiaoyuanzhao.com/EA/D8/EAE78B61C09E654823DE14C693249FD8.jpg,inn_7qozj5qdohn8
-f,合肥,乐职网,5,False,1,False,200,100,数据分析师,05-15,intern,https://sxsimg.xiaoyuanzhao.com/EA/D8/EAE78B61C09E654823DE14C693249FD8.jpg,inn_vd7jtpae03j3
-f,合肥,乐职网,3,False,1,False,200,150,数据挖掘/NLP工程师实习生,05-15,intern,https://sxsimg.xiaoyuanzhao.com/EA/D8/EAE78B61C09E654823DE14C693249FD8.jpg,inn_75tz3sbuhktq
-f,北京,罗辑思维 得到,5,False,1,False,300,200,数据挖掘实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/40/C0/40472E5B9D1C886634BAAC92913E8DC0.png,inn_sj3cez8plun7
-f,北京,最右,5,False,1,False,200,150,机器学习/数据挖掘/自然语言处理工程师实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/C1/9F/C13AE8C872F286AE8CD974E23D225F9F.png,inn_xzcxbxxg8twu
-f,北京,百度,5,False,1,False,220,170,北京_策略（机器学习/数据挖掘）实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/3E/3D/3E1F42C4AC29CDADFB729234AF43E03D.jpg,inn_otlrzg6kz4zq
-f,北京,滴滴,4,False,1,False,250,200,数据分析实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/CF/03/CF68C6D9B996C165F8281689193D7303.jpg,inn_omtiq0qnj9ug
-f,北京,网易有道,4,False,1,False,250,200,数据挖掘实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/3D/31/3DFFD4ED4083B7B51971DC8210DEAD31.png,inn_ezjwvz2njkdn
-f,深圳,海知智能,4,False,1,False,260,230,爬虫开发实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/23/2C/23B01C79D545CF4203ABF105D63F042C.png,inn_uroydaexljez
-f,上海,携程旅行网,5,False,1,False,200,150,数据分析师,05-14,intern,https://sxsimg.xiaoyuanzhao.com/E6/53/E63D7B5799BFEE9E50E28BF670026D53.png,inn_j1ype7dbrlxb
-f,杭州,Eigen,4,False,1,False,280,150,数据挖掘工程师,05-14,intern,https://sxsimg.xiaoyuanzhao.com/4B/A8/4BFE3EA584B85AE250A61226FDBBF9A8.png,inn_rxbesnrfvcbs
-f,杭州,Eigen,5,False,1,False,300,200,算法实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/4B/A8/4BFE3EA584B85AE250A61226FDBBF9A8.png,inn_aj5cwnuv7wak
-f,北京,地平线机器人,4,False,1,False,215,160,数据运营实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/91/93/916DADE1DC8147932B7114E15E230593.jpg,inn_riqllu2bj0b0
-f,上海,百分点科技,4,False,1,False,300,160,实习建模分析师,05-14,intern,https://sxsimg.xiaoyuanzhao.com/D1/BE/D1EEC8358B802CD480D1433E6B5DF3BE.jpg,inn_eroym6u3r94y
-f,北京,洋葱数学,3,False,1,False,300,150,数据挖掘实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/A5/73/A508049AA390E2BA15DBB8276B9E5E73.jpg,inn_xmdpuc2vwrdm
-f,成都,实验楼,3,False,1,False,200,150,机器学习实验设计实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-18/4HIgW3hO8ZSM0VN.png,inn_9z3ms4bscdaq
-f,武汉,光庭信息,5,False,1,False,100,80,在线导航/地图数据编译/数据挖掘开发工程师,05-14,intern,https://sxsimg.xiaoyuanzhao.com/87/60/8723CC9B75C81F39735EB345594DF160.png,inn_vsczo3coeapq
-f,南京,指食针,5,False,1,False,120,80,数据处理方向/数据处理实习岗,05-14,intern,https://sxsimg.xiaoyuanzhao.com/88/0B/88742F8A185F6EF61D95EA26CC8F5D0B.png,inn_87iwibwusi4z
-f,上海,长江众创,3,False,1,False,200,150,数据分析师,05-14,intern,https://sxsimg.xiaoyuanzhao.com/46/29/4620514FBC1ED3975DE632C50402D829.png,inn_0zghvkbpqmqz
-f,北京,作业帮,3,False,1,False,300,200,数据挖掘/算法实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/E5/85/E58244132DAD06C9B21180DDE2E4C585.jpg,inn_cosncbzwsg9d
-f,北京,凤凰网新媒体,5,False,1,False,147,120,数据分析实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-30/eKVARhiFjZmDQJS.jpg,inn_ugwnyo9ztz2g
-f,北京,作业帮,4,False,1,False,300,200,算法/数据挖掘实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/E5/85/E58244132DAD06C9B21180DDE2E4C585.jpg,inn_xuruwz0zcm2w
-f,合肥,科大讯飞,5,False,1,False,110,90,数据挖掘工程师-19届实习生招聘,05-14,intern,https://sxsimg.xiaoyuanzhao.com/77/72/7774A47E38626DAC0842477A36969872.jpg,inn_s2lkphi6vsin
-f,北京,彩虹无线,3,False,1,False,300,200,数据挖掘,05-14,intern,https://sxsimg.xiaoyuanzhao.com/0B/4B/0B7354037831F82C7C75D9254A246A4B.jpg,inn_und1qahqjqke
-f,北京,思图场景,3,False,1,False,200,100,研发工程师助理,05-14,intern,https://sxsimg.xiaoyuanzhao.com/1F/2E/1F0A427286413E193322C7ED317EC62E.jpg,inn_5kqojkrmgw2p
-f,北京,思图场景,5,False,1,False,199,120,数据运营实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/1F/2E/1F0A427286413E193322C7ED317EC62E.jpg,inn_ct2anw277irq
-f,上海,触宝,5,False,1,False,260,200,【2018暑期实习】机器学习工程师实习生,05-14,intern,https://sxsimg.xiaoyuanzhao.com/E3/85/E3F820F8D80CE3F534DCA8FDCD444285.PNG,inn_qg3lbqqw9jzx
-f,珠海,网钰科技,4,False,1,False,120,100,网钰管培生 -大数据挖掘 （技术部）,05-14,intern,https://sxsimg.xiaoyuanzhao.com/C5/01/C53610F2A6B69A3A6855EE3F231F9701.png,inn_xe4snqe5wvgf
-f,西安,绿盟科技,5,False,1,False,150,100,威胁情报和数据分析研究员实习生（西安）,05-14,intern,https://sxsimg.xiaoyuanzhao.com/B7/3F/B76F6F3AAEE77D4F083F10BF6490133F.png,inn_hdxxiru7qhgq
-f,北京,百度,4,False,1,False,220,170,数据挖掘实习工程师,05-11,intern,https://sxsimg.xiaoyuanzhao.com/0A/80/0A4DB3F4159F586B0E419CCFE6A34D80.png,inn_zyepnukaulmp
-f,北京,飞奔君,5,False,1,False,150,100,数据研究实习生,05-11,intern,https://sxsimg.xiaoyuanzhao.com/58/18/587B93EB8720550863CCD8691D69E918.png,inn_meprmsyg7y89
-f,上海,众安保险,5,False,1,False,200,150,样本标注工程师,05-11,intern,https://sxsimg.xiaoyuanzhao.com/F1/DA/F1C1AD9841443F2D69F6522C2BF0D6DA.png,inn_cs9fchnvly69
-f,北京,美兰德,4,False,1,False,150,100,数据挖掘实习生,05-11,intern,https://sxsimg.xiaoyuanzhao.com/BF/9E/BF979F917B37FCB7D8F624CE007D459E.png,inn_4rhcdj2xhxwh
-f,北京,180,5,False,1,False,400,300,算法实习,05-11,intern,https://sxsimg.xiaoyuanzhao.com/17/BA/17F9F4A64A4FD613F64CA74BCB8B99BA.JPG,inn_skf3rpcn52yl
-f,北京,神策数据,5,False,1,False,256,200,推荐系统研发实习生,05-11,intern,https://sxsimg.xiaoyuanzhao.com/CE/E4/CEEFCF9364AE8C0F3D5351CD430BE6E4.jpg,inn_ffigwpn114mm
-f,西安,学大教育,2,False,0,False,120,100,数据分析实习生,05-11,intern,https://sxsimg.xiaoyuanzhao.com/FA/E8/FA5C01AD79169D3F2B342FCE035CF9E8.png,inn_ntzzqg3tkiok
-f,北京,京东商城,5,False,1,False,125,100,结算流程风控（数据挖掘方向）,05-11,intern,https://sxsimg.xiaoyuanzhao.com/F1/92/F137C6C9BEBD0001D42B6B0A5C334A92.png,inn_fnbryyzprgi0
-f,北京,联想服务,4,False,1,False,150,120,数据分析师,05-11,intern,https://sxsimg.xiaoyuanzhao.com/3B/F2/3B033346214A391B2A6EA72E861AD9F2.jpg,inn_0tbgvm3sfmgf
-f,北京,智擎工业大数据,5,False,1,False,400,200,算法实习生,05-10,intern,https://sxsimg.xiaoyuanzhao.com/33/01/330A17B9E1B437770D9069E27F9F3101.png,inn_hxwyfsbijbg8
-f,北京,好未来,4,False,1,False,267,180,大数据部-数据开发实习生,05-10,intern,https://sxsimg.xiaoyuanzhao.com/2F/5C/2F4150A636B91A3AC4BA52DC41E1E95C.png,inn_uo0dzx3pspj8
-f,深圳,珍爱网,5,False,1,False,500,400,文本挖掘工程师-2018春招,05-10,intern,https://sxsimg.xiaoyuanzhao.com/82/25/82FFEDBAA07D82CCDD0CED8C9AABA425.png,inn_h6gb1rz5ok2p
-f,武汉,交复医学,5,False,1,False,200,150,数据分析实习生,05-10,intern,https://sxsimg.xiaoyuanzhao.com/5D/93/5D64B06D26CA08307FAB0319CAAD0D93.png,inn_kqx9kwzavlh3
-f,上海,迅达电梯,3,False,1,False,160,120,信息系统实习生,05-10,intern,https://sxsimg.xiaoyuanzhao.com/C8/15/C8F354046AAF23CF50997BE23E76AA15.png,inn_suza1uxfrnfp
-f,北京,德勤管理咨询,5,False,1,False,140,139,数据科学实习生,05-10,intern,https://sxsimg.xiaoyuanzhao.com/4F/C9/4F2C968FE84C577C4DCA4F97FBF07BC9.jpg,inn_7dzzpmaro2mc
-f,北京,德勤管理咨询,4,False,1,False,140,139,业务分析&数据分析助理,05-10,intern,https://sxsimg.xiaoyuanzhao.com/4F/C9/4F2C968FE84C577C4DCA4F97FBF07BC9.jpg,inn_m38ixojtnye3
-f,广州,火烈鸟网络,3,False,1,False,180,110,数据挖掘工程师实习生,05-10,intern,https://sxsimg.xiaoyuanzhao.com/65/26/6573D4AD145EF9590DD65C3B4EA6C426.png,inn_zwpqtnjgezc3
-f,深圳,Webot,4,False,1,False,150,100,数据标注员实习生,05-10,intern,https://sxsimg.xiaoyuanzhao.com/76/89/766AE65EC60388383B7AD45608A29D89.png,inn_ijlsmqam4ybg
-f,北京,正邦设计,5,False,1,False,150,80,sem助理,05-10,intern,https://sxsimg.xiaoyuanzhao.com/34/0B/34BF84497BF15F2FDFA1409D4995EA0B.png,inn_mzgzyqr8gi1t
-f,北京,蓦然认知/小蓦机器人,4,False,1,False,350,300,数据挖掘实习生,05-10,intern,https://sxsimg.xiaoyuanzhao.com/BF/99/BF714F87C7B1AB7FB393C07A1360D899.png,inn_xjhiqw97x41v
-f,北京,蓦然认知/小蓦机器人,5,False,1,False,350,300,知识图谱研发工程师,05-10,intern,https://sxsimg.xiaoyuanzhao.com/BF/99/BF714F87C7B1AB7FB393C07A1360D899.png,inn_plv42my8dzhu
-f,广州,时代大数据,5,False,1,False,180,120,数据分析/挖掘工程师,05-10,intern,https://sxsimg.xiaoyuanzhao.com/A5/71/A56C191F25AE6586FC21903FDC601571.png,inn_um2kbydruxjm
-f,上海,逻卜科技,4,False,1,False,200,150,法律金融数据挖掘工程师（实习）,05-10,intern,https://sxsimg.xiaoyuanzhao.com/E2/5E/E2FC3D89DFF5F01D9F7D4D4E94E3E05E.jpg,inn_hzm6tarovd2w
-f,上海,逻卜科技,4,False,1,False,200,150,法律金融 爬虫工程师实习,05-10,intern,https://sxsimg.xiaoyuanzhao.com/E2/5E/E2FC3D89DFF5F01D9F7D4D4E94E3E05E.jpg,inn_3zz2fyg9pwpb
-f,北京,百度,4,False,1,False,200,150,数据研发分析工程师,05-09,intern,https://sxsimg.xiaoyuanzhao.com/D6/AA/D6B364EB408649F1DA7A5C6BBFE47DAA.jpg,inn_iquzx4346dsb
-f,深圳,LimeBike,4,False,1,False,298,200,数据挖掘实习生,05-09,intern,https://sxsimg.xiaoyuanzhao.com/7F/6D/7FEEC116B2DE153A486BE95DD6D80A6D.png,inn_korfp4m0uavs
-f,广州,虎牙信息,3,False,1,False,280,180,（2019届实习生）商业分析实习生,05-09,intern,https://sxsimg.xiaoyuanzhao.com/56/84/56730541EB86A01518282E6AACB59784.png,inn_yupspxc8xiqc
-f,武汉,尚德机构,5,False,1,False,200,120,BI数据工程师,05-09,intern,https://sxsimg.xiaoyuanzhao.com/A2/30/A2BA5657D156DC06FCD35E7E47810230.png,inn_wo92uzn46qsz
-f,广州,虎牙信息,3,False,1,False,280,180,（2019届实习生）数据挖掘工程师实习生,05-09,intern,https://sxsimg.xiaoyuanzhao.com/56/84/56730541EB86A01518282E6AACB59784.png,inn_akvterhiztzt
-f,广州,留海科技,4,False,1,False,120,100,数据分析实习生,05-09,intern,https://sxsimg.xiaoyuanzhao.com/D0/9E/D0848DCCCEFF273F1C09D531630F8F9E.png,inn_udnbqiuyvahh
-f,北京,博慧医数,5,False,1,False,194,100,数据分析师,05-09,intern,https://sxsimg.xiaoyuanzhao.com/C5/E3/C5A6EECA43A2260934C0DE6CBDAF27E3.jpg,inn_bi26d8n2qzer
-f,成都,清华四川能源互联网研究院,3,False,1,False,150,100,数据挖掘实习生（能源传感研究所）,05-09,intern,https://sxsimg.xiaoyuanzhao.com/E7/F7/E7F356E4041A136D288E70D7DA4BECF7.jpg,inn_yxigrtjxivzm
-f,杭州,斯凯网络,5,False,1,False,149,100,数据开发工程师,05-09,intern,https://sxsimg.xiaoyuanzhao.com/A1/73/A1C9CB8972CA0A0E9117285E2C0E9B73.png,inn_dozvpn3t99xw
-f,北京,澳汰尔,4,False,1,False,150,100,仿真平台实施实习生,05-09,intern,https://sxsimg.xiaoyuanzhao.com/A1/2F/A11A1E0A75FD7064C8BD5DCC61747A2F.jpg,inn_ku8kkk3pchth
-f,北京,北斗导航,5,False,1,False,150,125,地图制图实习生,05-09,intern,https://sxsimg.xiaoyuanzhao.com/74/4D/749A18195B0FEDAFB2EAE60A852BFF4D.jpg,inn_ginduh6hb4u5
-f,广州,凡科,5,False,1,False,363,272,需求工程师,05-08,intern,https://sxsimg.xiaoyuanzhao.com/55/1B/55CF6183284AC360F172DE487478EC1B.jpg,inn_vwrtt8c0mb5s
-f,上海,汉堡王,3,False,1,False,120,100,开发部实习生,05-08,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-17/BFeG1XVNMi4ZU7Y.png,inn_ldrexiyxnhni
-f,北京,百融金服,5,False,1,False,200,150,数据分析师实习生,05-08,intern,https://sxsimg.xiaoyuanzhao.com/D6/13/D61E2DA7967E89AE41A5B85229665413.png,inn_3sssizadnici
-f,武汉,云峰核信,5,False,1,False,200,150,实施工程师,05-08,intern,https://sxsimg.xiaoyuanzhao.com/33/77/332D8C1B5BF64186170CEB7119EECD77.png,inn_79arh7qmcfjl
-f,上海,中估联数据,3,False,1,False,150,100,数据可视化助理（BI）,05-08,intern,https://sxsimg.xiaoyuanzhao.com/2D/4E/2DFB6560ABBF174585B018914056F44E.png,inn_jrq3jc6n8fg2
-f,北京,第四范式,5,False,1,False,430,400,电网建模工程师实习生,05-08,intern,https://sxsimg.xiaoyuanzhao.com/FB/CB/FB5C0AF5E2EFA5AEBC17F3E50DC92FCB.png,inn_ikr8hljvlq9c
-f,"北京,武汉",尚德机构,5,False,1,False,300,150,机器学习/数据挖掘研发工程师,05-08,intern,https://sxsimg.xiaoyuanzhao.com/BE/1C/BE84CC5CCF3AC65F1890F102E51D261C.png,inn_r8hycsaehlkq
-f,深圳,数字生命研究院,5,False,0,False,150,100,数据工程师,05-08,intern,https://sxsimg.xiaoyuanzhao.com/AF/3D/AF7B8DC6521C12A89A9822CEC410E03D.png,inn_niud6qc4bgcr
-f,上海,职业蛙,3,False,0,False,125,100,实习生（数据分析方向）,05-08,intern,https://sxsimg.xiaoyuanzhao.com/E8/60/E81162B184F84648C589FE6DDA365D60.png,inn_flq8itmopvfk
-f,广州,锐旗人力,5,False,1,False,120,100,实施工程师（项目管理方向）,05-08,intern,https://sxsimg.xiaoyuanzhao.com/54/62/54BC609A0ADF1AE7EFBD2089E8C75A62.png,inn_rvmxx2moaiag
-f,北京,人人贷,3,False,1,False,150,100,数据开发实习生,05-07,intern,https://sxsimg.xiaoyuanzhao.com/1D/84/1DF95937E71E1B95135AC0204CEC5884.png,inn_sfqp6mejf801
-f,上海,古道电商,5,False,1,False,150,130,数据分析师,05-07,intern,https://sxsimg.xiaoyuanzhao.com/F2/1E/F2C83B5081BEA368127DE7187354191E.png,inn_3ggu8c4asqj5
-f,北京,奇虎360,5,False,1,False,150,100,数据分析实习生,05-07,intern,https://sxsimg.xiaoyuanzhao.com/81/A4/817CC2E74038599A4D0888FF1400C2A4.jpg,inn_qqsznbl42tcj
-f,北京,新美互通,3,False,1,False,200,150,数据实习生,05-07,intern,https://sxsimg.xiaoyuanzhao.com/64/28/643CC7B4232B002C69A581AB4B386728.jpg,inn_icxn992073zc
-f,上海,诺亚财富,4,False,1,False,150,100,数据管理实习生（偏IT编程）,05-07,intern,https://sxsimg.xiaoyuanzhao.com/38/AB/38CAD9128973CF172C3B038D4C9ADCAB.jpg,inn_ehopcqzhu5vv
-f,深圳,佰聆数据,5,False,1,False,115,100,助理数据分析师（深圳）,05-07,intern,https://sxsimg.xiaoyuanzhao.com/2F/9A/2F3473D10E91E56FB9B6F2EB5EDAE19A.png,inn_hfu4pbtfklpr
-f,北京,搜狗,4,False,1,False,250,200,搜索广告算法研究,05-07,intern,https://sxsimg.xiaoyuanzhao.com/D7/45/D7954CF0239BF134BFB386E39ED79B45.png,inn_jbenakpzc2l1
-f,上海,英臻科技,5,False,1,False,200,150,数据分析实习生,05-07,intern,https://sxsimg.xiaoyuanzhao.com/0F/1E/0F135D3827854B8B73C3E1D302C7281E.png,inn_cozoes4qabcm
-f,北京,纳恩博,5,False,0,False,180,120,数据分析师（实习生）,05-07,intern,https://sxsimg.xiaoyuanzhao.com/18/30/1822C7C69B6C20D2C4469101A0B22330.png,inn_psyrphatahoj
-f,广州,腾浩电子,5,False,1,False,120,80,数据分析员实习生,05-07,intern,https://sxsimg.xiaoyuanzhao.com/16/93/160A0AF1DDC7C963527B460DF8ECAC93.png,inn_l5huwqhup7eb
-f,杭州,网易游戏,4,False,1,False,200,150,数据挖掘研究实习生（杭州）,05-07,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-22/mWSIgB9Di2Ofe6A.jpg,inn_nyidrnog7ulq
-f,上海,中原银行,5,False,1,False,120,100,数据分析师,05-05,intern,https://sxsimg.xiaoyuanzhao.com/D3/E5/D3681B31F09E89E985E109884F4EE2E5.jpg,inn_b1pwpqiwjcg6
-f,上海,资证魔方,3,False,1,False,151,150,资产证券化量化业务实习生,05-04,intern,https://sxsimg.xiaoyuanzhao.com/1D/E9/1DB4709F97BB68658A7DB9E3ABF94DE9.png,inn_mrx76tz4uym4
-f,上海,上海数策,3,False,1,False,150,140,文本建模助理,05-04,intern,https://sxsimg.xiaoyuanzhao.com/43/27/430A7039C6CEA3F0C3A1D6560F6BD027.png,inn_ghppsuc83q85
-f,上海,资证魔方,3,False,1,False,151,150,资产证券化量化业务实习生,05-04,intern,https://sxsimg.xiaoyuanzhao.com/1D/E9/1DB4709F97BB68658A7DB9E3ABF94DE9.png,inn_uflu9e9eey8f
-f,北京,今日头条,4,False,1,False,300,200,反作弊数据挖掘实习生,05-03,intern,https://sxsimg.xiaoyuanzhao.com/10/66/10ADF1D25A48FB1F5F51F193D888FD66.png,inn_pinfu9nhyu8u
-f,北京,今日头条,4,False,1,False,300,200,反作弊数据挖掘实习生,05-03,intern,https://sxsimg.xiaoyuanzhao.com/10/66/10ADF1D25A48FB1F5F51F193D888FD66.png,inn_67liypaakykc
-f,北京,今日头条,4,False,1,False,300,200,反作弊数据挖掘实习生,05-03,intern,https://sxsimg.xiaoyuanzhao.com/10/66/10ADF1D25A48FB1F5F51F193D888FD66.png,inn_vsgecqwepzbv
-f,上海,前海征信,4,False,1,False,200,150,自然语言处理(NLP)实习生,05-03,intern,https://sxsimg.xiaoyuanzhao.com/EB/C9/EB39A9D547DDDCF2D11CBD4B411941C9.png,inn_pl5df5rlb9g3
-f,上海,极熵数据,3,False,1,False,300,200,数据挖掘工程师实习生,05-03,intern,https://sxsimg.xiaoyuanzhao.com/75/1B/75272C700493FE14C326DE7B868AF11B.png,inn_h3uwrpuakyc8
-f,北京,八爪鱼,5,False,1,False,150,100,数据整理实习生,05-03,intern,https://sxsimg.xiaoyuanzhao.com/BF/4A/BFBA367F82C88476AE116C11707DC94A.png,inn_rsn4qanyvt7h
-f,北京,奇虎360,4,False,1,False,150,100,数据挖掘/机器学习实习生（校招）,05-02,intern,https://sxsimg.xiaoyuanzhao.com/26/1C/26E852051943C98DEBB48439BDE2091C.jpg,inn_tbaratlay1sz
-f,北京,闪银奇异,5,False,1,False,500,250,数据挖掘工程师,05-02,intern,https://sxsimg.xiaoyuanzhao.com/EA/87/EA5FA6DCE33B798169DB29AD9E648187.png,inn_f4y7kq63rmuz
-f,北京,百度,5,False,1,False,200,150,金融风控-数据分析/挖掘（实习）工程师,04-28,intern,https://sxsimg.xiaoyuanzhao.com/46/8A/46D396AF83EACD2C6EA9878D6FD6B88A.jpg,inn_sfwsipvijfiy
-f,北京,第四范式,4,False,1,False,400,300,图像数据实习生,04-27,intern,https://sxsimg.xiaoyuanzhao.com/5E/21/5E05DB0EE3760E16C9B0FC8277AA4221.png,inn_bzo1sgmslxgu
-f,北京,凤凰金融,5,False,0,False,160,150,挖掘工程师（校招）,04-27,intern,https://sxsimg.xiaoyuanzhao.com/6E/78/6E4A7F4677EF4671EC249476F0C0B978.png,inn_yipxjvhuruym
-f,北京,捷越联合,4,False,0,False,150,100,研发实习生（数据分析）,04-27,intern,https://sxsimg.xiaoyuanzhao.com/DC/B7/DC95FF9E63B780BC773E0803521C94B7.jpg,inn_uoa1ehpcamnt
-f,",上海",盛大游戏,4,False,1,False,150,130,数据挖掘分析师,04-26,intern,https://sxsimg.xiaoyuanzhao.com/AA/42/AAD067DFD68A6B299226FFDB70BAB042.png,inn_hmrux7kjjgno
-f,上海,爱奇艺,3,False,1,False,151,150,数据挖掘/统计实习生,04-25,intern,https://sxsimg.xiaoyuanzhao.com/D0/C4/D0602ABE3977821A6614929DD7B194C4.png,inn_zsnk75ucxbw8
-f,北京,冰橙网络,5,False,0,False,500,300,数据分析,04-25,intern,https://sxsimg.xiaoyuanzhao.com/70/CB/706F47B22F43D8D7CE8FD4AE63588BCB.jpg,inn_qblyajvxa3ng
-f,北京,百融金服,5,False,1,False,200,100,数据分析师岗位（实习生）,04-25,intern,https://sxsimg.xiaoyuanzhao.com/D6/13/D61E2DA7967E89AE41A5B85229665413.png,inn_zv24oupbigsn
-f,北京,滴滴出行,5,False,1,False,300,200,数据分析实习生,04-24,intern,https://sxsimg.xiaoyuanzhao.com/CF/03/CF68C6D9B996C165F8281689193D7303.jpg,inn_9ugimlxhur4s
-f,北京,金山云,3,False,0,False,200,160,数据挖掘算法工程师实习生,04-24,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-05/Y2b8iGHZhSNK549.jpg,inn_zwijwujpos96
-f,北京,车音智能,5,False,1,False,150,120,数据处理实习生,04-23,intern,https://sxsimg.xiaoyuanzhao.com/E2/CA/E230227094197C54021BDA01D04C1ECA.jpg,inn_ln1xfvmxldoh
-f,上海,慧士通,5,False,1,False,300,200,数据运维ERP工程师,04-23,intern,https://sxsimg.xiaoyuanzhao.com/3A/4B/3A53957EF4CAA4AD4D4C0C0AD5FB724B.png,inn_wc5qtvpzh2xg
-f,北京,诺信创联,5,False,1,False,250,200,数据挖掘,04-23,intern,https://sxsimg.xiaoyuanzhao.com/AE/1F/AEB0C9317F6439436345A118DB93CF1F.png,inn_bdhiwomh0ppe
-f,天津,数能科技,4,False,1,False,100,80,数据处理,04-22,intern,https://sxsimg.xiaoyuanzhao.com/94/FA/94613F47073144AD33EBF07C6D585EFA.png,inn_geqitsr4pqup
-f,北京,大特e保,5,False,1,False,250,150,数据挖掘实习生,04-21,intern,https://sxsimg.xiaoyuanzhao.com/B4/12/B4118CB95D8DD06709DB95D2047D8712.png,inn_e5ezfykdu6dc
-f,北京,字节跳动,4,False,1,False,400,200,数据挖掘算法实习生 - 国际化,04-20,intern,https://sxsimg.xiaoyuanzhao.com/10/66/10ADF1D25A48FB1F5F51F193D888FD66.png,inn_zmgypd14lwyd
-f,上海,猎萝卜,5,False,1,False,400,350,数据挖掘工程师,04-18,intern,https://sxsimg.xiaoyuanzhao.com/8D/02/8D708C5D5999A265E1FBA2C83BB7D402.png,inn_rz0sj2kn3jzr
-f,北京,今日头条,4,False,1,False,320,280,数据仓库与数据分析实习生,04-17,intern,https://sxsimg.xiaoyuanzhao.com/18/EE/185A6C480311D5C744CEBFCA03C6F1EE.png,inn_nxszdob7kzig
-f,上海,施耐德电气,4,False,0,False,140,100,Digital Lab intern,04-16,intern,https://sxsimg.xiaoyuanzhao.com/26/AB/26AE0749A17C57B222F8FF59BC8FC9AB.jpg,inn_fy3ny1bq4ji9
-f,上海,CAAD,3,False,1,False,150,100,数据助理,04-16,intern,https://sxsimg.xiaoyuanzhao.com/86/D7/86351A511E429A6D20198F63BB7E12D7.png,inn_ehuhchnpuaph
-f,上海,汇纳科技,3,False,1,False,120,100,数据分析师实习生,04-16,intern,https://sxsimg.xiaoyuanzhao.com/A0/17/A095962D2D25F5881CC162E4CB82C317.png,inn_pjvcfd6rb8wu
-f,北京,大通天成,5,False,1,False,149,100,大数据分析师,04-12,intern,https://sxsimg.xiaoyuanzhao.com/A1/1F/A17ECBDA6FD1A8CA37BFEA720E9B121F.jpg,inn_razdgj2o4aah
-f,北京,多盟,4,False,1,False,260,200,广告算法实习生,04-11,intern,https://sxsimg.xiaoyuanzhao.com/4E/AD/4E52C5D234E88F6FDAD57277BF9073AD.png,inn_bh4vbcmxxmpa
-f,北京,闪银奇异,4,False,1,False,500,300,机器学习工程师,04-09,intern,https://sxsimg.xiaoyuanzhao.com/EA/87/EA5FA6DCE33B798169DB29AD9E648187.png,inn_jwvecb58zhje
-f,上海,恺英网络,5,False,0,False,180,150,数据挖掘助理,04-08,intern,https://sxsimg.xiaoyuanzhao.com/15/67/155B5CD10930867D75B959BB71FCD867.png,inn_jhzrvtru9rkc
-f,上海,博世,3,False,1,False,145,115,数据分析实习生(上海),04-03,intern,https://sxsimg.xiaoyuanzhao.com/64/0E/64451C5C8DDF405439D70C5E37472F0E.png,inn_weeecz7nkvmc
-f,苏州,博世,3,False,1,False,145,115,数据分析师（苏州）,04-03,intern,https://sxsimg.xiaoyuanzhao.com/64/0E/64451C5C8DDF405439D70C5E37472F0E.png,inn_qoqdcfflvrle
-f,上海,游族网络,5,False,1,False,280,160,大数据挖掘工程师 （2018校园）,04-02,intern,https://sxsimg.xiaoyuanzhao.com/BD/6D/BD305709F25F51F798C10D23A996616D.png,inn_46watgzrvqsg
-f,北京,闪银奇异,4,False,1,False,400,200,机器学习工程师,04-02,intern,https://sxsimg.xiaoyuanzhao.com/EA/87/EA5FA6DCE33B798169DB29AD9E648187.png,inn_eompzthyezcs
-f,北京,融慧金科,4,False,1,False,200,170,金融数据挖掘/模型开发研究员,03-21,intern,https://sxsimg.xiaoyuanzhao.com/97/2F/970EEC7DFFBEEF2507334CE7EF26EA2F.png,inn_anzhwqttc5aj
-f,上海,爱奇艺,4,False,0,False,250,180,数据挖掘/统计实习生,03-20,intern,https://sxsimg.xiaoyuanzhao.com/A6/59/A6119AB0F113C8CBB3893FD491E06859.jpg,inn_zcvyqx4r6sz7
-f,上海,点融网,4,False,0,False,236,235,数据挖掘/机器学习实习生-SH2921,03-19,intern,https://sxsimg.xiaoyuanzhao.com/B9/DB/B9F3E7ED069F49DA90BB64AE29A49EDB.png,inn_qcynycohlori
-f,北京,wecash,5,False,1,False,300,200,数据挖掘工程师,03-11,intern,https://sxsimg.xiaoyuanzhao.com/BC/F6/BCB86FBACD9CF17766497427C56C65F6.png,inn_2uyjzk2yaa4f
-f,北京,作业帮,3,False,1,False,300,200,数据挖掘/算法实习生,03-10,intern,https://sxsimg.xiaoyuanzhao.com/E5/85/E58244132DAD06C9B21180DDE2E4C585.jpg,inn_clxzfo1erjaz
-f,北京,作业帮,3,False,1,False,300,200,数据挖掘/算法实习生,03-10,intern,https://sxsimg.xiaoyuanzhao.com/E5/85/E58244132DAD06C9B21180DDE2E4C585.jpg,inn_ol0ldg2yupys
-f,北京,作业帮,3,False,1,False,300,200,数据挖掘/算法实习生,03-10,intern,https://sxsimg.xiaoyuanzhao.com/E5/85/E58244132DAD06C9B21180DDE2E4C585.jpg,inn_erd3pbcc5usx
-f,北京,作业帮,3,False,1,False,300,200,数据挖掘/算法实习生,03-06,intern,https://sxsimg.xiaoyuanzhao.com/D5/22/D5597487DD52585D711B87006801A922.png,inn_rz3rohior2yf
-f,北京,天眼查,4,False,1,False,400,200,算法实习生（数据挖掘方向）,03-02,intern,https://sxsimg.xiaoyuanzhao.com/41/5C/411F42E3F0A7E9B66F4F95AFA81F455C.png,inn_4gzhqnqcwebx
-f,"北京,上海",链家网,3,False,1,False,400,200,机器学习/数据挖掘工程师【实习岗】,03-01,intern,https://sxsimg.xiaoyuanzhao.com/4B/44/4B198EAACCA3631BD4423271A648FF44.png,inn_bktkqf8y1o6b
-f,北京,作业帮,4,False,1,False,300,200,算法/数据挖掘实习生,02-27,intern,https://sxsimg.xiaoyuanzhao.com/E5/85/E58244132DAD06C9B21180DDE2E4C585.jpg,inn_uxoebgtxgmg6
-f,北京,北京众荟信息,4,False,0,False,300,200,数据挖掘实习生,02-24,intern,https://sxsimg.xiaoyuanzhao.com/88/6D/88D762D316E3B32143BFFC79A832346D.jpg,inn_ygcho6b0tilq
-f,北京,作业帮,4,False,1,False,300,200,算法/数据挖掘实习生,02-18,intern,https://sxsimg.xiaoyuanzhao.com/E5/85/E58244132DAD06C9B21180DDE2E4C585.jpg,inn_bpalmr6ezhvn
-f,北京,作业帮,4,False,1,False,300,200,算法/数据挖掘实习生,01-31,intern,https://sxsimg.xiaoyuanzhao.com/E5/85/E58244132DAD06C9B21180DDE2E4C585.jpg,inn_parhpjlsytt7
-f,北京,百度,5,False,1,False,200,180,知识图谱部_数据挖掘工程师,01-26,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-46/abMfDO0gVXei8IU.jpg,inn_quis4cj9ykv0
-f,北京,妙计旅行,5,False,1,False,240,140,数据挖掘实习生,01-15,intern,https://sxsimg.xiaoyuanzhao.com/02/D6/02931F467E11C55AF3B68DB6C9ECF9D6.jpg,inn_5mmrexob5ssv
-f,北京,百度,5,False,1,False,200,150,百度数据挖掘工程师实习生,01-11,intern,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-46/abMfDO0gVXei8IU.jpg,inn_geeynjrlrces
-f,北京,Baca,4,False,1,False,370,350,数据挖掘实习生,01-08,intern,https://sxsimg.xiaoyuanzhao.com/E3/6E/E37F997BEEF1BC50994CFA4621149E6E.jpg,inn_he8hzd2sbhwb
-f,北京,汽车之家,4,False,1,False,180,140,数据分析实习生,12-06,intern,https://sxsimg.xiaoyuanzhao.com/33/E9/33D79518F6083A88618BBC6951114BE9.png,inn_uhq3zjyak0qe
-f,北京,志诺维Genowis,4,False,1,False,300,150,算法工程师（文本挖掘）,06-22,intern,https://www.sxsimg.com/4B/75/4B4C5E70316199F0FF1337E1EE3F1575.png,inn_1q83uuw1diir
+is_hr,city,scale,is_view,name,url,industry,deliver,ad_type,refresh,month_num,cname,ftype,invite,maxsal,job_label,type,day,minsal,uuid
+False,上海,150-500人,False,数据挖掘工程师,https://sxsimg.xiaoyuanzhao.com/1B/4B/1BC3945FEE8B80F4FE3EB23CEEEF224B.png,互联网/游戏/软件,False,f,11-30,6,华院数据,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_2krgalukceq6
+False,上海,50-150人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/3B/D3/3B6610F652B9AFF8B75A9BBEFCE0E4D3.png,金融/经济/投资/财会,False,f,11-30,3,弘则研究,1,False,120,"{'is_ji': False, 'is_quick': False}",intern,3,80,inn_8a9xbfmnfgp3
+False,北京,150-500人,False,数据分析挖掘工程师,https://sxsimg.xiaoyuanzhao.com/BB/19/BBA2C13C45672BA2DD1FE3137C4E2119.jpg,互联网/游戏/软件,False,f,11-30,3,墨迹天气,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_mvhpmjzpge6x
+False,北京,15-50人,False,数据分析实习,https://sxsimg.xiaoyuanzhao.com/E4/C8/E43687AA59A9D781FF6085D39B6B60C8.jpg,互联网/游戏/软件,False,f,11-30,4,领众恒信,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,3,100,inn_yc7op6zffzg2
+False,广州,50-150人,False,语音数据标注员（粤语）,https://sxsimg.xiaoyuanzhao.com/7D/E7/7DA311B5B42CE8F261FE2115B49A3FE7.png,互联网/游戏/软件,False,f,11-30,6,有光科技,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_0qikvff4y23o
+False,大连,150-500人,False,算法实习生,https://sxsimg.xiaoyuanzhao.com/82/3D/82C3DA937235431C6137523C0385633D.png,互联网/游戏/软件,False,f,11-30,5,腾讯无线大连研发中心,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_dvdkujbqjldj
+False,全国,15-50人,False,Python数据分析实习生,https://sxsimg.xiaoyuanzhao.com/31/C2/31D023E5B816500515AB5E5DE1AB2AC2.png,教育/培训,False,f,11-30,1,新思陆,1,False,400,"{'is_ji': False, 'is_quick': False}",intern,5,300,inn_jrtziyz1zm2x
+False,北京,50-150人,False,数据挖掘工程师,https://sxsimg.xiaoyuanzhao.com/5C/0A/5C1226413F53B29AE343E7AD5BCC440A.png,互联网/游戏/软件,False,f,11-30,3,充电了么,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_dhazj0cxez59
+False,广州,500-1000人,False,数据分析实习生-天河南,https://sxsimg.xiaoyuanzhao.com/6C/9C/6CB2E7EC5B30AFEA56F73924C9844E9C.jpg,金融/经济/投资/财会,False,f,11-30,6,广州银行信用卡中心,1,False,100,"{'is_ji': False, 'is_quick': False}",intern,3,50,inn_zoy4bx3dkqpv
+False,北京,50-150人,False,数据分析师,https://sxsimg.xiaoyuanzhao.com/5C/0A/5C1226413F53B29AE343E7AD5BCC440A.png,互联网/游戏/软件,False,f,11-30,4,充电了么,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,2,150,inn_gash4nsivtxn
+False,北京,50-150人,False,NLP自然语言处理工程师,https://sxsimg.xiaoyuanzhao.com/5C/0A/5C1226413F53B29AE343E7AD5BCC440A.png,互联网/游戏/软件,False,f,11-30,4,充电了么,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_mjoqfcqczln8
+False,北京,500-2000人,False,医药学实习生,https://sxsimg.xiaoyuanzhao.com/70/D2/702E4071E4213C3316ADBBDEA306D6D2.jpg,医疗/健康/制药/生物,False,f,11-30,3,医渡云,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,3,120,inn_zek8hdtcqf0i
+False,上海,150-500人,False,数据挖掘助理,https://sxsimg.xiaoyuanzhao.com/69/BD/696D69C2EC630894F7849C62411855BD.png,互联网/游戏/软件,False,f,11-30,3,趣致股份,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,3,150,inn_syhnolixgyd1
+False,上海,150-500人,False,数据分析助理,https://sxsimg.xiaoyuanzhao.com/69/BD/696D69C2EC630894F7849C62411855BD.png,互联网/游戏/软件,False,f,11-30,3,趣致股份,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,4,150,inn_lfnlxynck5dp
+False,广州,2000人以上,False,番禺数据录入员,https://sxsimg.xiaoyuanzhao.com/67/EF/675E233370BC46E442ACFEC5C92953EF.jpg,互联网/游戏/软件,False,f,11-30,6,yidatec,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_uliub0kcaayi
+False,无锡,15-50人,False,UI设计师,https://sxsimg.xiaoyuanzhao.com/9B/01/9BA882B5DE1A7535FA77EA319EAA2001.png,互联网/游戏/软件,False,f,11-30,3,跑吧跑吧运动大数据,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,3,80,inn_tzim0ovaakuu
+False,重庆,500-2000人,False,数据建模实习生,https://sxsimg.xiaoyuanzhao.com/88/7F/88E532BDEA866EFF3F63128F33F00F7F.jpg,金融/经济/投资/财会,False,f,11-30,3,瀚华金融,1,False,100,"{'is_ji': False, 'is_quick': False}",intern,5,50,inn_zk0ybk0vgmsy
+False,上海,少于15人,False,数据科学家,https://sxsimg.xiaoyuanzhao.com/F1/0A/F1FB1E543458580C2C08F6DDE446FA0A.png,互联网/游戏/软件,False,f,11-30,6,千居智,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,4,200,inn_85vbzdze5mqw
+False,上海,15-50人,False,科技金融部实习生（上海）,https://sxsimg.xiaoyuanzhao.com/8F/99/8F656894EA680FE56867AF811F3CFF99.png,金融/经济/投资/财会,False,f,11-30,3,汇鸿汇升投资,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_dh3bm2ngihrz
+False,深圳,150-500人,False,数据分析员,https://sxsimg.xiaoyuanzhao.com/60/59/6060D9E2367D2E61ABF01F3779B5A859.png,交通/贸易/物流,False,f,11-30,5,燕文物流,1,False,250,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_gnib3foj33fa
+False,上海,150-500人,False,数据挖掘工程师,https://sxsimg.xiaoyuanzhao.com/1B/4B/1BC3945FEE8B80F4FE3EB23CEEEF224B.png,互联网/游戏/软件,False,f,11-30,6,华院数据,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_2krgalukceq6
+False,上海,50-150人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/3B/D3/3B6610F652B9AFF8B75A9BBEFCE0E4D3.png,金融/经济/投资/财会,False,f,11-30,3,弘则研究,1,False,120,"{'is_ji': False, 'is_quick': False}",intern,3,80,inn_8a9xbfmnfgp3
+False,北京,150-500人,False,数据分析挖掘工程师,https://sxsimg.xiaoyuanzhao.com/BB/19/BBA2C13C45672BA2DD1FE3137C4E2119.jpg,互联网/游戏/软件,False,f,11-30,3,墨迹天气,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_mvhpmjzpge6x
+False,北京,15-50人,False,数据分析实习,https://sxsimg.xiaoyuanzhao.com/E4/C8/E43687AA59A9D781FF6085D39B6B60C8.jpg,互联网/游戏/软件,False,f,11-30,4,领众恒信,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,3,100,inn_yc7op6zffzg2
+False,广州,50-150人,False,语音数据标注员（粤语）,https://sxsimg.xiaoyuanzhao.com/7D/E7/7DA311B5B42CE8F261FE2115B49A3FE7.png,互联网/游戏/软件,False,f,11-30,6,有光科技,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_0qikvff4y23o
+False,大连,150-500人,False,算法实习生,https://sxsimg.xiaoyuanzhao.com/82/3D/82C3DA937235431C6137523C0385633D.png,互联网/游戏/软件,False,f,11-30,5,腾讯无线大连研发中心,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_dvdkujbqjldj
+False,全国,15-50人,False,Python数据分析实习生,https://sxsimg.xiaoyuanzhao.com/31/C2/31D023E5B816500515AB5E5DE1AB2AC2.png,教育/培训,False,f,11-30,1,新思陆,1,False,400,"{'is_ji': False, 'is_quick': False}",intern,5,300,inn_jrtziyz1zm2x
+False,北京,50-150人,False,数据挖掘工程师,https://sxsimg.xiaoyuanzhao.com/5C/0A/5C1226413F53B29AE343E7AD5BCC440A.png,互联网/游戏/软件,False,f,11-30,3,充电了么,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_dhazj0cxez59
+False,广州,500-1000人,False,数据分析实习生-天河南,https://sxsimg.xiaoyuanzhao.com/6C/9C/6CB2E7EC5B30AFEA56F73924C9844E9C.jpg,金融/经济/投资/财会,False,f,11-30,6,广州银行信用卡中心,1,False,100,"{'is_ji': False, 'is_quick': False}",intern,3,50,inn_zoy4bx3dkqpv
+False,北京,50-150人,False,数据分析师,https://sxsimg.xiaoyuanzhao.com/5C/0A/5C1226413F53B29AE343E7AD5BCC440A.png,互联网/游戏/软件,False,f,11-30,4,充电了么,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,2,150,inn_gash4nsivtxn
+False,北京,50-150人,False,NLP自然语言处理工程师,https://sxsimg.xiaoyuanzhao.com/5C/0A/5C1226413F53B29AE343E7AD5BCC440A.png,互联网/游戏/软件,False,f,11-30,4,充电了么,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_mjoqfcqczln8
+False,北京,500-2000人,False,医药学实习生,https://sxsimg.xiaoyuanzhao.com/70/D2/702E4071E4213C3316ADBBDEA306D6D2.jpg,医疗/健康/制药/生物,False,f,11-30,3,医渡云,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,3,120,inn_zek8hdtcqf0i
+False,上海,150-500人,False,数据挖掘助理,https://sxsimg.xiaoyuanzhao.com/69/BD/696D69C2EC630894F7849C62411855BD.png,互联网/游戏/软件,False,f,11-30,3,趣致股份,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,3,150,inn_syhnolixgyd1
+False,上海,150-500人,False,数据分析助理,https://sxsimg.xiaoyuanzhao.com/69/BD/696D69C2EC630894F7849C62411855BD.png,互联网/游戏/软件,False,f,11-30,3,趣致股份,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,4,150,inn_lfnlxynck5dp
+False,广州,2000人以上,False,番禺数据录入员,https://sxsimg.xiaoyuanzhao.com/67/EF/675E233370BC46E442ACFEC5C92953EF.jpg,互联网/游戏/软件,False,f,11-30,6,yidatec,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_uliub0kcaayi
+False,无锡,15-50人,False,UI设计师,https://sxsimg.xiaoyuanzhao.com/9B/01/9BA882B5DE1A7535FA77EA319EAA2001.png,互联网/游戏/软件,False,f,11-30,3,跑吧跑吧运动大数据,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,3,80,inn_tzim0ovaakuu
+False,重庆,500-2000人,False,数据建模实习生,https://sxsimg.xiaoyuanzhao.com/88/7F/88E532BDEA866EFF3F63128F33F00F7F.jpg,金融/经济/投资/财会,False,f,11-30,3,瀚华金融,1,False,100,"{'is_ji': False, 'is_quick': False}",intern,5,50,inn_zk0ybk0vgmsy
+False,上海,少于15人,False,数据科学家,https://sxsimg.xiaoyuanzhao.com/F1/0A/F1FB1E543458580C2C08F6DDE446FA0A.png,互联网/游戏/软件,False,f,11-30,6,千居智,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,4,200,inn_85vbzdze5mqw
+False,上海,15-50人,False,科技金融部实习生（上海）,https://sxsimg.xiaoyuanzhao.com/8F/99/8F656894EA680FE56867AF811F3CFF99.png,金融/经济/投资/财会,False,f,11-30,3,汇鸿汇升投资,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_dh3bm2ngihrz
+False,深圳,150-500人,False,数据分析员,https://sxsimg.xiaoyuanzhao.com/60/59/6060D9E2367D2E61ABF01F3779B5A859.png,交通/贸易/物流,False,f,11-30,5,燕文物流,1,False,250,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_gnib3foj33fa
+False,深圳,2000人以上,False,算法工程师-数据挖掘（实习）,https://sxsimg.xiaoyuanzhao.com/DA/00/DA0F232B022F51EEA452E7DE355D5400.png,互联网/游戏/软件,False,f,11-30,3,平安科技,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,4,200,inn_bjcke1h5igal
+False,上海,500-2000人,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/9E/94/9EABA636A107133D779750C4562EFE94.png,互联网/游戏/软件,False,f,11-30,6,汇纳科技,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_qmbq8lc9tigj
+False,杭州,15-50人,False,爬虫工程师,https://sxsimg.xiaoyuanzhao.com/7F/1E/7F85B47E4DFE02649F68750D6AE2CC1E.png,农林牧渔/其他,False,f,11-30,3,帝工科技,0,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_uxskr2ht4p0l
+False,上海,15-50人,False,数据分析实习生（python培训生）,https://sxsimg.xiaoyuanzhao.com/company_log/2020-06-22/287776e4b46411ea98c2562413b7c367.png,互联网/游戏/软件,False,f,11-30,3,数行科技,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_hg9jju8gyodq
+False,上海,15-50人,False,研发中心-数据实习生,https://sxsimg.xiaoyuanzhao.com/13/1F/13429740ADD5B2C43D00E4EC2B6E3D1F.jpg,金融/经济/投资/财会,False,f,11-30,3,西部证券,1,False,80,"{'is_ji': False, 'is_quick': False}",intern,3,50,inn_lyyivqkwbgzh
+False,北京,2000人以上,False,医药分析实习生（健康险系统部）,https://sxsimg.xiaoyuanzhao.com/FD/84/FD1FE47E2A5A20F6C9218C4A85F78784.jpg,金融/经济/投资/财会,False,f,11-30,3,泰康养老,1,False,100,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_jgsctvxqsw3z
+False,上海,50-150人,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/AF/D5/AF4614CDEB3A8BDD0B6511C8DD631DD5.png,金融/经济/投资/财会,False,f,11-27,3,至瀛投资,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_sgixyuwbs7yr
+False,北京,2000人以上,False,风控数据挖掘实习生-ZP2008202288,https://sxsimg.xiaoyuanzhao.com/25/19/259B0946C5E1E2AC04CE9DC0C53B2919.png,互联网/游戏/软件,False,f,11-27,3,京东数科,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_amycyq4p5psa
+False,成都,15-50人,False,数据挖掘/模型/风控建模实习生,https://sxsimg.xiaoyuanzhao.com/company_log/2020-08-07/b880122ad88911ea82996641c386d991.png,金融/经济/投资/财会,False,f,11-27,6,鲸鲲智数,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_whwyd5i3exqg
+False,西安,2000人以上,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/14/78/145989C3743232A370943D4E768CB578.png,互联网/游戏/软件,False,f,11-27,6,亚信,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_5gframg0bh9k
+False,北京,2000人以上,False,数据产品经理实习,https://sxsimg.xiaoyuanzhao.com/52/87/520B3921C8E98AEEB4B665E215A78987.png,互联网/游戏/软件,False,f,11-27,3,快手,1,False,250,"{'is_ji': False, 'is_quick': False}",intern,5,180,inn_batbno9yyvvs
+False,广州,500-2000人,False,数据挖掘实习生（能源电力方向）,https://sxsimg.xiaoyuanzhao.com/company_logo/2015-15/YRGQgL45FWZN3iH.png,企业服务/咨询,False,f,11-27,3,中大咨询,1,False,120,"{'is_ji': False, 'is_quick': False}",intern,3,80,inn_r3gq1m7m1v7y
+False,全国,2000人以上,False,销售代表,https://sxsimg.xiaoyuanzhao.com/21/4F/21C2298926D6A3607B676DABB0CD764F.png,互联网/游戏/软件,False,f,11-27,12,乐有家,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,6,250,inn_zzhajnns8mpj
+False,北京,2000人以上,False,北京数据分析挖掘实习生,https://sxsimg.xiaoyuanzhao.com/38/E4/3804CCBEA05E7994750161A7B002E8E4.jpg,互联网/游戏/软件,False,f,11-27,6,亚信科技,0,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_bsogkicea3xi
+False,北京,15-50人,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/E8/FB/E87D620DFE6105CCDED52544D8365CFB.png,企业服务/咨询,False,f,11-27,3,智汇绿行,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_wec55dns8mdy
+False,北京,50-150人,False,数据实习生,https://sxsimg.xiaoyuanzhao.com/18/5B/18FD1F48F28582CC034512EB72BD455B.png,广告/传媒/公关/展览,False,f,11-27,6,owhat,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_tnq8zy2sps2c
+False,广州,150-500人,False,BI系统研发实习生,https://sxsimg.xiaoyuanzhao.com/83/2C/83DF498CFC91BA7224D2E8C272FA002C.jpg,金融/经济/投资/财会,False,f,11-27,4,广汽租赁,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,3,100,inn_vfo6actvvpmg
+False,北京,15-50人,False,算法交易研发实习生,https://sxsimg.xiaoyuanzhao.com/9F/21/9FA281D259E4BF0A85681B893EFF5B21.png,基金/证券/期货/投资,False,f,11-26,3,罡兴投资,1,False,400,"{'is_ji': False, 'is_quick': False}",intern,3,250,inn_twv5dbhv8azh
+False,北京,15-50人,False,机器学习研发实习生,https://sxsimg.xiaoyuanzhao.com/9F/21/9FA281D259E4BF0A85681B893EFF5B21.png,基金/证券/期货/投资,False,f,11-26,3,罡兴投资,1,False,400,"{'is_ji': False, 'is_quick': False}",intern,3,250,inn_q506z1iu7jlk
+False,北京,15-50人,False,数据挖掘intern,https://sxsimg.xiaoyuanzhao.com/BD/18/BD69652367C9B0C84825AACDA47FC118.jpg,互联网/游戏/软件,False,f,11-26,3,WeHome,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_t80s09ab3jas
+False,北京,2000人以上,False,机器学习实习生,https://sxsimg.xiaoyuanzhao.com/88/B9/88810A20F8A647FA0CBF93FF048990B9.png,互联网/游戏/软件,False,f,11-26,5,滴滴,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,4,250,inn_ibgeynydrkqo
+False,北京,2000人以上,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/88/B9/88810A20F8A647FA0CBF93FF048990B9.png,互联网/游戏/软件,False,f,11-26,4,滴滴,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,250,inn_fuorxauhqt0t
+False,北京,2000人以上,False,奇点反作弊-数据挖掘工程师,https://sxsimg.xiaoyuanzhao.com/A0/70/A003A27F68874AF7D13FA263318CFB70.jpg,互联网/游戏/软件,False,f,11-26,3,搜狗,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,4,200,inn_mqoa03sggbgi
+False,北京,50-150人,False,助理研究员,https://sxsimg.xiaoyuanzhao.com/51/C3/5103A936CA1141880CEFC6D6821F1FC3.png,互联网/游戏/软件,False,f,11-26,3,美兰德,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,3,120,inn_q4ktp6gqzhrp
+False,北京,50-150人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/51/C3/5103A936CA1141880CEFC6D6821F1FC3.png,互联网/游戏/软件,False,f,11-26,3,美兰德,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_4rhcdj2xhxwh
+False,郑州,500-2000人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/C7/D8/C750B2AF27B7D08B1590DAFA4F58D8D8.png,互联网/游戏/软件,False,f,11-26,6,星环科技,1,False,180,"{'is_ji': False, 'is_quick': False}",intern,4,120,inn_ueobjo1bo6nj
+False,北京,50-150人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/6F/EA/6FD206F6FDE554E42FBAE2C1F2EDD5EA.jpg,广告/传媒/公关/展览,False,f,11-26,3,虎嗅网,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_wj9qxnmi3yyr
+False,南京,150-500人,False,数据分析师,https://sxsimg.xiaoyuanzhao.com/D2/73/D2007F68E4AD13F1F5F8DA414AEC3073.png,教育/培训,False,f,11-26,3,国准信息技术研究院,1,False,800,"{'is_ji': False, 'is_quick': False}",intern,5,400,inn_yjarwfkclcmc
+False,北京,150-500人,False,数据科学家/算法工程师/数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/A3/62/A3D42F2EA55320347D529C1AB0BE0562.gif,互联网/游戏/软件,False,f,11-25,6,正大集团 ,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_rokzztfuddyg
+False,上海,2000人以上,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/5D/C3/5D5A36590576ED8AEBCFC721E41B9DC3.png,互联网/游戏/软件,False,f,11-25,6,盛趣游戏,1,False,180,"{'is_ji': False, 'is_quick': False}",intern,4,150,inn_xfjyajkckwhv
+False,上海,2000人以上,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/5D/C3/5D5A36590576ED8AEBCFC721E41B9DC3.png,互联网/游戏/软件,False,f,11-25,3,盛趣游戏,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,180,inn_gxvb38jinzrb
+False,杭州,500-2000人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/F0/FC/F09C8B2E51EEE0244EDBAFB60ABC5CFC.jpg,互联网/游戏/软件,False,f,11-25,6,邦盛科技,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,3,180,inn_5cacr8k4ddy8
+False,上海,500-2000人,False,数据挖掘分析实习生,https://sxsimg.xiaoyuanzhao.com/DD/1F/DD7635AB8D67AFB8898A122C516BAE1F.png,汽车/机械/制造,False,f,11-25,12,米思米,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,3,184,inn_zkjcxeyk1b6i
+False,嘉兴,150-500人,False,数据运维ERP工程师,https://sxsimg.xiaoyuanzhao.com/3A/4B/3A53957EF4CAA4AD4D4C0C0AD5FB724B.png,汽车/机械/制造,False,f,11-25,4,慧士通,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,3,250,inn_wc5qtvpzh2xg
+False,北京,50-150人,False,数据挖掘实习生-CH,https://sxsimg.xiaoyuanzhao.com/00/54/006DC210865A30FC565391DC80A74A54.png,广告/传媒/公关/展览,False,f,11-25,9,车慧,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,4,150,inn_m7yvd4zqpw2j
+False,重庆,2000人以上,False,数据挖掘工程师,https://sxsimg.xiaoyuanzhao.com/8F/DF/8F721E6CFC8BDB8FBE2DC6DAD3E8E4DF.png,电子/通信/硬件,False,f,11-25,10,亚信科技,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_lbdkgnbsefll
+False,杭州,500-2000人,False,数值策划实习生,https://sxsimg.xiaoyuanzhao.com/DC/A1/DCEBC988474C99CEBA151D5EE99299A1.jpg,互联网/游戏/软件,False,f,11-25,4,电魂网络,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_rp2bz90n34ig
+False,昆明,2000人以上,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/BF/A0/BFC35B81764259089B7632BE0047DAA0.jpg,互联网/游戏/软件,False,f,11-25,6,亚信科技,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_3leh7peydiv9
+False,哈尔滨,2000人以上,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/BF/A0/BFC35B81764259089B7632BE0047DAA0.jpg,互联网/游戏/软件,False,f,11-25,6,亚信科技,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_avjhyfrcy8rj
+False,武汉,2000人以上,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/BF/A0/BFC35B81764259089B7632BE0047DAA0.jpg,互联网/游戏/软件,False,f,11-25,6,亚信科技,1,False,180,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_su803fm6jonp
+False,北京,2000人以上,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/BF/A0/BFC35B81764259089B7632BE0047DAA0.jpg,互联网/游戏/软件,False,f,11-25,3,亚信科技,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_4kkiaxttdb4p
+False,南昌,2000人以上,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/BF/A0/BFC35B81764259089B7632BE0047DAA0.jpg,互联网/游戏/软件,False,f,11-25,6,亚信科技,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_p4tfm9c9zobd
+False,广州,2000人以上,False,算法实习生,https://sxsimg.xiaoyuanzhao.com/6E/37/6EDDEA6B74B1074EE825DACDABE72B37.jpg,化工/能源/环保,False,f,11-25,3,蓝月亮,1,False,100,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_pwipnuyu1pa2
+False,北京,2000人以上,False,数据分析实习生-北京,https://sxsimg.xiaoyuanzhao.com/08/85/08769ADD16872F2FD2D2B45EB9FB8E85.png,医疗/健康/制药/生物,False,f,11-25,6,拜耳,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,4,120,inn_f9o4x4pzrzce
+False,上海,50-150人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/EA/C3/EA205132AD1379BFC16E500E385D31C3.png,化工/能源/环保,False,f,11-24,6,联元智能,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,3,200,inn_awxxevciitt0
+False,广州,2000人以上,False,数据挖掘/运维实习生,https://sxsimg.xiaoyuanzhao.com/0F/B1/0F5038244CA766D2D25D7F210457F5B1.jpg,房产/家居/物业/建筑,False,f,11-24,3,中梁地产粤港澳发展集团,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_i0o3o7u9eevi
+False,杭州,150-500人,False,数据挖掘算法研究员,https://sxsimg.xiaoyuanzhao.com/67/3D/67FF55745479F402AC906A801C0CAA3D.png,农林牧渔/其他,False,f,11-24,3,北大信研院,1,False,400,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_qn90tnnmjl4w
+False,北京,2000人以上,False,数据分析师-两轮车,https://sxsimg.xiaoyuanzhao.com/88/B9/88810A20F8A647FA0CBF93FF048990B9.png,互联网/游戏/软件,False,f,11-23,3,滴滴,1,False,250,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_f8ym1khm9awp
+False,北京,2000人以上,False,网约车数据分析实习生,https://sxsimg.xiaoyuanzhao.com/88/B9/88810A20F8A647FA0CBF93FF048990B9.png,互联网/游戏/软件,False,f,11-23,6,滴滴,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_dmpfzoi6pznq
+False,上海,500-2000人,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/1D/41/1DB9AD0711CB3E4A891DF85199000841.png,广告/传媒/公关/展览,False,f,11-23,3,阳狮,1,False,120,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_d7p9nhwahrhd
+False,杭州,150-500人,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/D3/3B/D3CCDBEEA48552906907ECE6D75E513B.png,金融/经济/投资/财会,False,f,11-23,3,桢诚投资,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_vjlxtnbetlbw
+False,北京,15-50人,False,数据分析师,https://sxsimg.xiaoyuanzhao.com/AC/ED/AC03C894288409353BE81A86678956ED.png,互联网/游戏/软件,False,f,11-23,12,00DATA,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_mzb443ma8z08
+False,北京,50-150人,False,NLP研发工程师（实习）,https://sxsimg.xiaoyuanzhao.com/14/47/141B9CAFF1C75000B3CE3515970A3747.jpg,互联网/游戏/软件,False,f,11-23,3,标贝科技,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_77t7ds395uyz
+False,北京,50-150人,False,数据标注实习生,https://sxsimg.xiaoyuanzhao.com/14/8F/14689E3F212A0FBA3ABF1BD16441D28F.jpg,互联网/游戏/软件,False,f,11-23,3,香侬科技,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,4,120,inn_i880hu8qepuh
+False,全国,500-2000人,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/DB/FF/DB82071BE30CE735D3928A508493FFFF.png,医疗/健康/制药/生物,False,f,11-23,6,望海康信,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_p8stqapu21hx
+False,上海,500-2000人,False,[2021校招] 渗透测试工程师,https://sxsimg.xiaoyuanzhao.com/BB/C4/BB6AB56FD879E16AAEB6C1353C5B34C4.jpg,互联网/游戏/软件,False,f,11-23,0,三零卫士,1,False,210,"{'is_ji': False, 'is_quick': False}",intern,4,150,inn_haximikh22kj
+False,北京,50-150人,False,软件开发工程师（数据挖掘方向）,https://sxsimg.xiaoyuanzhao.com/27/0B/27F587E12AF6B3AA336A43B06BCDA10B.png,互联网/游戏/软件,False,f,11-23,3,北醒光子,1,False,250,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_7to2mbzfiwqi
+False,上海,15-50人,False,电商数据分析师 Analytics Specialists,https://sxsimg.xiaoyuanzhao.com/4F/C5/4F97053E559FE9EEEB1A454498C346C5.jpg,广告/传媒/公关/展览,False,f,11-23,3,Pick & Enlarge,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_jilcrpau5wux
+False,北京,15-50人,False,图像识别,https://sxsimg.xiaoyuanzhao.com/C3/74/C34C3645A98966EA531E7E0DF4F29674.png,互联网/游戏/软件,False,f,11-23,8,博天数创,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_xoxyqqjkt4bj
+False,北京,15-50人,False,数据/数据分析实习生（数据分类录入方向）,https://sxsimg.xiaoyuanzhao.com/91/92/9182765DEC1D4CB1C2744DC0DA938D92.png,农林牧渔/其他,False,f,11-23,4,基金会中心网,1,False,100,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_8smouvulviat
+False,成都,150-500人,False,数据挖掘实习生（能源传感研究所）,https://sxsimg.xiaoyuanzhao.com/E7/F7/E7F356E4041A136D288E70D7DA4BECF7.jpg,电子/通信/硬件,False,f,11-23,6,清华四川能源互联网研究院,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,3,100,inn_yxigrtjxivzm
+False,西安,150-500人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/97/8B/9763DCCEB41A841CF06C54DFC4327A8B.png,企业服务/咨询,False,f,11-20,3,云积互动,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_ki8vopssnukz
+False,上海,50-150人,False,BI数据分析师,https://sxsimg.xiaoyuanzhao.com/8B/BC/8BF49F0BA80182558E83726018D6B7BC.png,互联网/游戏/软件,False,f,11-20,3,宝宇科技,1,False,180,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_gthgb5sfnaef
+False,北京,500-2000人,False,BI实习生,https://sxsimg.xiaoyuanzhao.com/A6/A6/A666AE2A11EA219A6F9EA3A4AF0337A6.jpg,互联网/游戏/软件,False,f,11-20,3,搜狐畅游,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_veoewxxbv6mm
+False,深圳,2000人以上,False,腾讯-数据分析实习生-PCG-base深圳,https://sxsimg.xiaoyuanzhao.com/55/0D/553DB5EACC768D24F1B909CE98AA1C0D.jpg,互联网/游戏/软件,False,f,11-20,5,腾讯,1,False,120,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_sxuqtta3kmfk
+False,深圳,2000人以上,False,腾讯-数据分析实习生 -PCG-base深圳,https://sxsimg.xiaoyuanzhao.com/55/0D/553DB5EACC768D24F1B909CE98AA1C0D.jpg,互联网/游戏/软件,False,f,11-20,6,腾讯,1,False,120,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_z2ocwh0wklnc
+False,杭州,50-150人,False,知识图谱研发工程师,https://sxsimg.xiaoyuanzhao.com/99/7B/995C6417D0EA0D43F6CF699FAABA937B.png,医疗/健康/制药/生物,False,f,11-20,5,连信科技,1,False,180,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_bms7pqojgui6
+False,杭州,150-500人,False,数据标注实习生,https://sxsimg.xiaoyuanzhao.com/67/3D/67FF55745479F402AC906A801C0CAA3D.png,农林牧渔/其他,False,f,11-19,3,北大信研院,0,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_2mxz7wad74z3
+False,天津,150-500人,False,数据分析管培生,https://sxsimg.xiaoyuanzhao.com/59/1E/5985A96DF765CC207101F7968CC5D71E.png,互联网/游戏/软件,False,f,11-19,6,顶晟科技,0,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_x8o3vebsoary
+False,北京,15-50人,False,机器学习研究员,https://sxsimg.xiaoyuanzhao.com/2D/6B/2DEBD19B773A2E3E4E8B59483AFC436B.png,金融/经济/投资/财会,False,f,11-19,3,平方和投资,1,False,500,"{'is_ji': False, 'is_quick': False}",intern,4,300,inn_3guozco2jpjn
+False,北京,150-500人,False,数据标注实习生,https://sxsimg.xiaoyuanzhao.com/B2/86/B2CB705F43917FC00D751A4052221F86.jpg,互联网/游戏/软件,False,f,11-18,3,海尔智慧家庭,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,4,150,inn_rjuaccbs0pzh
+False,北京,15-50人,False,数据库/数据挖掘工程师,https://sxsimg.xiaoyuanzhao.com/59/FA/596B42FB84A403A29474DBADA37FC3FA.png,互联网/游戏/软件,False,f,11-18,10,海华研究院,1,False,400,"{'is_ji': False, 'is_quick': False}",intern,4,200,inn_tjt2bzcpup6o
+False,北京,15-50人,False,工业数据分析师,https://sxsimg.xiaoyuanzhao.com/54/79/545E20BA19C4DD4ECFC0E3CE83B1A079.png,互联网/游戏/软件,False,f,11-17,3,RealAI,1,False,400,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_q8xwcx8cwwfz
+False,苏州,2000人以上,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/0E/40/0E60D917D1841FE47813411DCD4C2A40.png,互联网/游戏/软件,False,f,11-17,6,同程旅行,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_4zhbzbiikmga
+False,长沙,2000人以上,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/8F/DF/8F721E6CFC8BDB8FBE2DC6DAD3E8E4DF.png,电子/通信/硬件,False,f,11-17,6,亚信科技,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_qbfv3qcy6zxh
+False,北京,2000人以上,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/74/A6/74B7EEA2521C4DA214D5563C7D2F94A6.png,互联网/游戏/软件,False,f,11-17,3,东软集团,0,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_v5e4xsvczo2n
+False,杭州,2000人以上,False,大数据挖掘与分析实习生（杭州）,https://sxsimg.xiaoyuanzhao.com/EE/27/EE436CCA5837D80A68791C791F059827.png,电子/通信/硬件,False,f,11-17,12,华信设计,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_cnyt3e6j8ny9
+False,上海,150-500人,False,风险建模实习生,https://sxsimg.xiaoyuanzhao.com/53/B3/53D2E41D555AA4D127850C83B901B3B3.png,金融/经济/投资/财会,False,f,11-16,3,新希望金服,0,False,200,"{'is_ji': False, 'is_quick': False}",intern,4,150,inn_p4guj6ujwr6g
+False,天津,2000人以上,False,数据分析运营实习生（天津）,https://sxsimg.xiaoyuanzhao.com/38/E4/3804CCBEA05E7994750161A7B002E8E4.jpg,互联网/游戏/软件,False,f,11-16,6,亚信科技,1,False,180,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_dmjum8fbpdhs
+False,石家庄,2000人以上,False,数据分析挖掘实习生（石家庄）,https://sxsimg.xiaoyuanzhao.com/38/E4/3804CCBEA05E7994750161A7B002E8E4.jpg,互联网/游戏/软件,False,f,11-16,6,亚信科技,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_uchsdvyrljlq
+False,天津,2000人以上,False,数据分析挖掘实习生（天津）,https://sxsimg.xiaoyuanzhao.com/38/E4/3804CCBEA05E7994750161A7B002E8E4.jpg,互联网/游戏/软件,False,f,11-16,6,亚信科技,1,False,180,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_fmx7vy3wdr3z
+False,北京,2000人以上,False,数据分析挖掘与运营实习生（北京）,https://sxsimg.xiaoyuanzhao.com/38/E4/3804CCBEA05E7994750161A7B002E8E4.jpg,互联网/游戏/软件,False,f,11-16,6,亚信科技,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_hjdjnkba4vi8
+False,南京,50-150人,False,数据分析师,https://sxsimg.xiaoyuanzhao.com/45/17/4561C8DB23B2DE84DCC320F518BADC17.png,电子/通信/硬件,False,f,11-14,3,信大卫星研究院,1,False,500,"{'is_ji': False, 'is_quick': False}",intern,5,300,inn_njvysb7tjglu
+False,上海,2000人以上,False,NLP数据分析,https://sxsimg.xiaoyuanzhao.com/DA/00/DA0F232B022F51EEA452E7DE355D5400.png,互联网/游戏/软件,False,f,11-13,3,平安科技,0,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_4dsu42f2shwh
+False,长沙,500-2000人,False,大数据分析挖掘实习生,https://sxsimg.xiaoyuanzhao.com/FB/F0/FB9841A934FE947D0629A1012E5D0DF0.jpg,互联网/游戏/软件,False,f,11-13,6,亚信安全,0,False,180,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_xffp7brgzc6k
+False,北京,50-150人,False,金融数据挖掘/模型开发研究员,https://sxsimg.xiaoyuanzhao.com/97/2F/970EEC7DFFBEEF2507334CE7EF26EA2F.png,金融/经济/投资/财会,False,f,11-12,6,融慧金科,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,4,150,inn_anzhwqttc5aj
+False,北京,50-150人,False,数据挖掘/模型实习生,https://sxsimg.xiaoyuanzhao.com/97/2F/970EEC7DFFBEEF2507334CE7EF26EA2F.png,金融/经济/投资/财会,False,f,11-12,6,融慧金科,0,False,200,"{'is_ji': False, 'is_quick': False}",intern,4,180,inn_bw6ivt2br86n
+False,上海,2000人以上,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/44/DF/4425619FB61D2B64B2AB1B5B20C7B7DF.jpg,互联网/游戏/软件,False,f,11-12,3,哔哩哔哩,1,False,400,"{'is_ji': False, 'is_quick': False}",intern,5,300,inn_1hzeghtms7m5
+False,北京,500-2000人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/3D/31/3DFFD4ED4083B7B51971DC8210DEAD31.png,互联网/游戏/软件,False,f,11-12,3,网易有道,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,4,250,inn_ezjwvz2njkdn
+False,重庆,500-2000人,False,数据分析,https://sxsimg.xiaoyuanzhao.com/3D/DA/3DA4B1A49CED44E0BBEACE957ED077DA.jpg,互联网/游戏/软件,False,f,11-11,3,迈特望,0,False,120,"{'is_ji': False, 'is_quick': False}",intern,3,100,inn_7tsyrxxa1lop
+False,北京,2000人以上,False,滴滴青桔单车/电单车-机器学习,https://sxsimg.xiaoyuanzhao.com/88/B9/88810A20F8A647FA0CBF93FF048990B9.png,互联网/游戏/软件,False,f,11-10,6,滴滴,1,False,250,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_2nmi9ept5ttn
+False,北京,500-2000人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/1F/A2/1F47C918068DBC74EBFB6BAD3C9A42A2.png,互联网/游戏/软件,False,f,11-10,3,荔枝,1,False,250,"{'is_ji': False, 'is_quick': False}",intern,4,180,inn_owxbajioeuja
+False,北京,少于15人,False,自然语言理解实习生,https://sxsimg.xiaoyuanzhao.com/AE/CB/AE906AE93F0B58042149CFD6EA615CCB.jpeg,互联网/游戏/软件,False,f,11-09,1,铸保,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,3,250,inn_k7bud8tkvsmr
+False,上海,2000人以上,False,数据挖掘Data Mining Intern,https://sxsimg.xiaoyuanzhao.com/51/58/5161033929838824B2F16750EB4A7E58.jpg,汽车/机械/制造,False,f,11-09,6,圣戈班,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_nhxeg692zn1b
+False,上海,2000人以上,False,自然语言处理NLP工程师,https://sxsimg.xiaoyuanzhao.com/DA/00/DA0F232B022F51EEA452E7DE355D5400.png,互联网/游戏/软件,False,f,11-09,3,平安科技,0,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_e1lhtbviw8mc
+False,武汉,2000人以上,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/96/A4/96E871A7AD5D1EF2E7B55E81C9256FA4.png,快消/百货/批发/零售,False,f,11-06,3,良品铺子,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_17jtbbi1wxjx
+False,上海,15-50人,False,数据研发,https://sxsimg.xiaoyuanzhao.com/69/70/698EA2F57D1B81DAF15D986CC4BD6370.jpg,广告/传媒/公关/展览,False,f,11-06,3,新加坡义声咨询,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,3,100,inn_kdwuoueoztwz
+False,北京,150-500人,False,AI算法工程师,https://sxsimg.xiaoyuanzhao.com/57/A0/57AB7DA34F6F44CB1C182FCD97A1A2A0.jpg,互联网/游戏/软件,False,f,11-05,3,泰瑞,1,False,180,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_z8asn9lvcnmm
+False,佛山,2000人以上,False,IT实习生-数据工程,https://sxsimg.xiaoyuanzhao.com/A8/D8/A8E8DB0BF87F860FD7418865CCFE25D8.png,电子/通信/硬件,False,f,11-05,6,OSRAM,0,False,200,"{'is_ji': False, 'is_quick': False}",intern,3,150,inn_29l2qtbdm8ol
+False,广州,2000人以上,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/4F/BB/4F1A8F2CE6F7A5F7E39FCA0E024A93BB.jpg,互联网/游戏/软件,False,f,11-04,3,唯品会,0,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_h7qwuybynlze
+False,北京,500-2000人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/C7/D8/C750B2AF27B7D08B1590DAFA4F58D8D8.png,互联网/游戏/软件,False,f,11-04,6,星环科技,0,False,250,"{'is_ji': False, 'is_quick': False}",intern,4,150,inn_4akmpve3nv70
+False,深圳,150-500人,False,数据挖掘工程师,https://sxsimg.xiaoyuanzhao.com/58/12/58FF6CAA2E17EFB664233C85D685B312.png,医疗/健康/制药/生物,False,f,11-03,3,晶泰科技,0,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_gprxoo9dft5r
+False,北京,500-2000人,False,数据模型分析师实习生,https://sxsimg.xiaoyuanzhao.com/70/51/7079CDDC8582F518F2D0428DBBB37951.jpg,企业服务/咨询,False,f,11-03,6,益普索,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_ac5xx6fskwdz
+False,北京,2000人以上,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/88/B9/88810A20F8A647FA0CBF93FF048990B9.png,互联网/游戏/软件,False,f,11-02,10,滴滴,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,4,250,inn_4rz88oabimqn
+False,北京,150-500人,False,数据实习生,https://sxsimg.xiaoyuanzhao.com/A5/26/A5B38A86D55425868FED31217DF9A526.png,教育/培训,False,f,11-02,3,斑马天下,0,False,250,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_hxzni3bk1sg2
+False,广州,500-2000人,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/1B/15/1B438063A30B22063B301207C007F215.png,互联网/游戏/软件,False,f,11-02,3,汇量科技,0,False,150,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_dfbph3qn4fsz
+False,福州,500-2000人,False,后端JAVA开发及数据挖掘分析,https://sxsimg.xiaoyuanzhao.com/FB/F0/FB9841A934FE947D0629A1012E5D0DF0.jpg,互联网/游戏/软件,False,f,11-02,6,亚信安全,0,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_llvrplj1xcns
+False,全国,2000人以上,False,数据研发工程师,https://sxsimg.xiaoyuanzhao.com/B3/BD/B38270C858C5B345153874B1EAB091BD.png,互联网/游戏/软件,False,f,10-31,4,阿里巴巴,1,False,400,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_fffzhvvjou1r
+False,全国,2000人以上,False,实习数据研发工程师,https://sxsimg.xiaoyuanzhao.com/B3/BD/B38270C858C5B345153874B1EAB091BD.png,互联网/游戏/软件,False,f,10-31,12,阿里巴巴,1,False,250,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_binixnkuwefm
+False,北京,500-2000人,False,智能区块链方向实习生,https://sxsimg.xiaoyuanzhao.com/37/5F/3795E5D782415EA50E32615F3B7D185F.jpg,互联网/游戏/软件,False,f,10-30,5,中科院信工所,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_njmkmqjhcacl
+False,上海,2000人以上,False,数据挖掘实习生-ZP2009272817,https://sxsimg.xiaoyuanzhao.com/25/19/259B0946C5E1E2AC04CE9DC0C53B2919.png,互联网/游戏/软件,False,f,10-29,3,京东数科,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_gut6x9yiv89u
+False,北京,15-50人,False,挖掘算法实习生,https://sxsimg.xiaoyuanzhao.com/78/21/78689B8DEA98BF0B194F2E9DD9E47F21.png,互联网/游戏/软件,False,f,10-28,8,易起跑,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_td4mli7joerd
+False,深圳,50-150人,False,数据分析实习,https://sxsimg.xiaoyuanzhao.com/2C/E9/2CBD1D0433DB49CEDEDDAA044BA9B3E9.png,互联网/游戏/软件,False,f,10-28,6,北斗院,0,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_bgehsxvctmz8
+False,重庆,150-500人,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/A7/53/A765765804BE975E784155C9F7497C53.png,农林牧渔/其他,False,f,10-27,3,赛迪技术,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_tlnr32kfhg67
+False,北京,2000人以上,False,数据挖掘/模型算法工程师【仅限2021届】,https://sxsimg.xiaoyuanzhao.com/11/5B/11B11C84003C5B2D2754FFE81F9EF35B.png,互联网/游戏/软件,False,f,10-27,3,思特奇,1,False,800,"{'is_ji': False, 'is_quick': False}",intern,5,400,inn_m9vkd0lz7ql1
+False,深圳,500-2000人,False,金融量化数据分析实习生,https://sxsimg.xiaoyuanzhao.com/18/2E/18308603FBA24DF058CA0F15B2ED5C2E.jpg,互联网/游戏/软件,False,f,10-22,3,富途网络,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_ixj9keyohybn
+False,天津,500-2000人,False,数据挖掘顾问DS实习生,https://sxsimg.xiaoyuanzhao.com/9E/29/9EF8D65BD00807B39E3CCC215E89D529.jpg,企业服务/咨询,False,f,10-20,12,Teradata天睿信科,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,4,150,inn_kfwplp5bipci
+False,上海,50-150人,False,数据挖掘分析实习生,https://sxsimg.xiaoyuanzhao.com/28/BF/287AB07FF413A3AD497EAC05DF9C7FBF.png,互联网/游戏/软件,False,f,10-20,3,申米,0,False,400,"{'is_ji': False, 'is_quick': False}",intern,5,300,inn_saw574k10j9h
+False,北京,500-2000人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/FB/F0/FB9841A934FE947D0629A1012E5D0DF0.jpg,互联网/游戏/软件,False,f,10-19,6,亚信安全,0,False,180,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_nxslhr6glivk
+False,深圳,2000人以上,False,数据挖掘机器学习算法工程师,https://sxsimg.xiaoyuanzhao.com/77/56/774790A6E764F9F3E1D1816966490F56.png,互联网/游戏/软件,False,f,10-14,7,腾讯,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_btgg1xncafqz
+False,南京,50-150人,False,数据采集师,https://sxsimg.xiaoyuanzhao.com/D2/73/D2007F68E4AD13F1F5F8DA414AEC3073.png,电子/通信/硬件,False,f,10-13,3,国准数据,1,False,800,"{'is_ji': False, 'is_quick': False}",intern,5,400,inn_tjztdfkonqrf
+False,西宁,2000人以上,False,数据分析师--西宁,https://sxsimg.xiaoyuanzhao.com/BF/A0/BFC35B81764259089B7632BE0047DAA0.jpg,互联网/游戏/软件,False,f,10-09,12,亚信科技,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_ppt2oeuwnrhc
+False,兰州,2000人以上,False,数据分析师,https://sxsimg.xiaoyuanzhao.com/BF/A0/BFC35B81764259089B7632BE0047DAA0.jpg,互联网/游戏/软件,False,f,10-09,6,亚信科技,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_8zglxaj9ssg1
+False,济南,50-150人,False,量化策略分析师,https://sxsimg.xiaoyuanzhao.com/51/55/5127707224420BAC441D2C43DDBEBB55.png,金融/经济/投资/财会,False,f,09-30,3,戈尔特西斯,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,100,inn_y6p9gsfixsg5
+False,北京,15-50人,False,大数据开发工程师,https://sxsimg.xiaoyuanzhao.com/F6/16/F6316BF9D965C0270C316F170CEA7616.png,互联网/游戏/软件,False,f,09-23,10,智数时空,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,3,100,inn_ccwzrbo1gaqz
+False,上海,150-500人,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/C1/FB/C10C976012E0498AB24A5143B3475BFB.png,互联网/游戏/软件,False,f,09-21,3,莉莉丝游戏,0,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,250,inn_ddlgmfzfqjzp
+False,北京,2000人以上,False,反欺诈数据挖掘实习生-ZP2009155521,https://sxsimg.xiaoyuanzhao.com/25/19/259B0946C5E1E2AC04CE9DC0C53B2919.png,互联网/游戏/软件,False,f,09-18,3,京东数科,1,False,300,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_78l2xoqtpvod
+False,北京,2000人以上,False,宏观研究实习生ZP2009156415,https://sxsimg.xiaoyuanzhao.com/25/19/259B0946C5E1E2AC04CE9DC0C53B2919.png,互联网/游戏/软件,False,f,09-16,3,京东数科,0,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_xoqwbew6kza3
+False,北京,2000人以上,False,电商数据分析师实习生,https://sxsimg.xiaoyuanzhao.com/9F/DA/9FF5A212DD7C61A398B076FF148938DA.png,互联网/游戏/软件,False,f,09-16,4,字节跳动,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_vdo7ky8eggdb
+False,北京,500-2000人,False,安全工程师,https://sxsimg.xiaoyuanzhao.com/F2/D6/F2DCE183DB4D010C49348C45077FD9D6.png,互联网/游戏/软件,False,f,09-14,12,中科院软件所,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_4amfwd1dkfza
+False,深圳,2000人以上,False,软件工程师（数据挖掘方向）,https://sxsimg.xiaoyuanzhao.com/0C/6A/0CDD5200FECB4F957ED841CEC6BDFB6A.png,房产/家居/物业/建筑,False,f,09-09,8,方大集团,1,False,1000,"{'is_ji': False, 'is_quick': False}",intern,5,500,inn_zhogtcdiv1il
+False,广州,2000人以上,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/8F/DF/8F721E6CFC8BDB8FBE2DC6DAD3E8E4DF.png,电子/通信/硬件,False,f,09-07,6,亚信科技,1,False,120,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_9vjnucuu9ebb
+False,北京,150-500人,False,自然语言研发工程师（大数据智能平台部）,https://sxsimg.xiaoyuanzhao.com/AD/05/AD1672528A1D6DCEFE53B2B28FA40405.png,互联网/游戏/软件,False,f,09-07,3,绿湾科技,0,False,400,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_o8awfiz7ay3b
+False,广州,2000人以上,False,数据分析实习生,https://sxsimg.xiaoyuanzhao.com/B6/C8/B68A699F3DF49A7B3F204CBE1F4218C8.png,互联网/游戏/软件,False,f,09-03,3,小鹏汽车,0,False,180,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_rzlro3mgem6z
+False,北京,2000人以上,False,大数据开发实习生,https://sxsimg.xiaoyuanzhao.com/88/B9/88810A20F8A647FA0CBF93FF048990B9.png,互联网/游戏/软件,False,f,08-27,4,滴滴,1,False,250,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_yngfbb2csyko
+False,广州,500-2000人,False,需求分析师,https://sxsimg.xiaoyuanzhao.com/5B/2B/5BC9B3ECEB09CAF1037472348F80DE2B.png,医疗/健康/制药/生物,False,f,08-26,3,万孚生物,1,False,0,"{'is_ji': False, 'is_quick': False}",intern,5,0,inn_cuqviqscuks2
+False,北京,150-500人,False,数据分析师,https://sxsimg.xiaoyuanzhao.com/A8/9C/A8317E273BBA42CF6E8C3645BFBF2B9C.jpg,互联网/游戏/软件,False,f,08-24,3,云畅游戏,0,False,250,"{'is_ji': False, 'is_quick': False}",intern,5,200,inn_chaeripxji8h
+False,上海,500-2000人,False,数据分析师（实习）,https://sxsimg.xiaoyuanzhao.com/3F/FB/3F9D07ED2D8CA93D7ECB652C87CDA3FB.png,互联网/游戏/软件,False,f,08-24,6,虎扑,0,False,400,"{'is_ji': False, 'is_quick': False}",intern,5,300,inn_tcxnvj6vbim4
+False,北京,2000人以上,False,量化投资实习生,https://sxsimg.xiaoyuanzhao.com/25/19/259B0946C5E1E2AC04CE9DC0C53B2919.png,互联网/游戏/软件,False,f,08-17,7,京东数科,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,5,120,inn_zsnc2hmx2yrq
+False,大连,50-150人,False,数据处理实习生,https://sxsimg.xiaoyuanzhao.com/99/C9/99FF014B69E1944B5B16AA2227B01CC9.jpg,互联网/游戏/软件,False,f,08-12,6,窝创网络,1,False,100,"{'is_ji': False, 'is_quick': False}",intern,6,80,inn_meq6w6jmbqbf
+False,上海,50-150人,False,渗透测试工程师,https://sxsimg.xiaoyuanzhao.com/76/0A/763BE0E9C929BE9537AF11E6D9AC910A.png,互联网/游戏/软件,False,f,07-30,12,漏洞银行,1,False,150,"{'is_ji': False, 'is_quick': False}",intern,4,80,inn_50gohocxm2pd
+False,北京,15-50人,False,数据挖掘工程师,https://sxsimg.xiaoyuanzhao.com/22/3C/22A10DBF87031C8DE0D780DF8BCD7F3C.jpg,互联网/游戏/软件,False,f,04-14,12,瞳门科技,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_ruhpygvrnnqy
+False,北京,500-2000人,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/A6/A6/A666AE2A11EA219A6F9EA3A4AF0337A6.jpg,互联网/游戏/软件,False,f,04-08,3,搜狐畅游,0,False,200,"{'is_ji': False, 'is_quick': False}",intern,4,150,inn_mhzmkddwy2cx
+False,北京,2000人以上,False,社交内容数据挖掘助理研究员（中科院特别研究助理）,https://sxsimg.xiaoyuanzhao.com/DF/5A/DF3D1BB794AD5624D0FCA2995CC07D5A.jpg,互联网/游戏/软件,False,f,01-11,12,中科院计算所,0,False,300,"{'is_ji': False, 'is_quick': False}",intern,1,150,inn_0y74jihbzy0p
+False,上海,2000人以上,False,数据挖掘实习生,https://sxsimg.xiaoyuanzhao.com/99/B7/9934093BA0C3A665415E2CDAAAC7D5B7.jpeg,互联网/游戏/软件,False,f,12-18,3,平安科技,0,False,300,"{'is_ji': False, 'is_quick': False}",intern,4,300,inn_ld9vmqbnzs0e
+False,成都,15-50人,False,数据标注实习生,https://sxsimg.xiaoyuanzhao.com/82/42/8216BF4D853639599187EBCD807EC442.png,互联网/游戏/软件,False,f,09-29,5,聚微启创,0,False,80,"{'is_ji': False, 'is_quick': False}",intern,5,50,inn_uucii55rz9vu
+False,上海,15-50人,False,智能网联汽车数据管理工程师,https://sxsimg.xiaoyuanzhao.com/6D/71/6DE4C968BF1147965A90E665C0BAE571.png,互联网/游戏/软件,False,f,07-03,1,淞泓智能,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,4,100,inn_wvyxblkoelxk
+False,北京,15-50人,False,数据挖掘工程师,https://sxsimg.xiaoyuanzhao.com/FB/E5/FB737129E61440A74910925E49B151E5.jpg,互联网/游戏/软件,False,f,05-20,12,Baca,1,False,400,"{'is_ji': False, 'is_quick': False}",intern,5,300,inn_3senichjqvxw
+False,珠海,150-500人,False,数据运营（统计学专业）,https://sxsimg.xiaoyuanzhao.com/6A/B3/6AB7D2F730DFF0976B194CC6FC964AB3.png,农林牧渔/其他,False,f,03-05,12,喜文,1,False,200,"{'is_ji': False, 'is_quick': False}",intern,5,150,inn_rawolpns8kqy

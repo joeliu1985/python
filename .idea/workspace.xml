@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9462445-fd06-4625-917c-2990fbb9be58" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/interesting-python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESL/jobleadchina.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ESL/jobleadchina.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESL/jobleadchina.py" beforeDir="false" afterPath="$PROJECT_DIR$/ESL/jobleadchina.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESL/数据分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ESL/数据分析.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LiveStreaming/xigua.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LiveStreaming/xigua.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py" afterDir="false" />
+    <list default="true" id="d9462445-fd06-4625-917c-2990fbb9be58" name="Default" comment="read csv">
+      <change afterPath="$PROJECT_DIR$/.idea/mongoSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wechat_article_collector/photo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wechat_article_collector/wechat.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wechat_article_collector/wechat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learnmatplotlib/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/interesting-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/interesting-python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChangAn/youku_comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChangAn/youku_comments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Earthquake/eq_final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Earthquake/eq_final.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/English_names/Babynames.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/English_names/Babynames.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fireworks_and_Pm2.5/Fireworks and Pm2.5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Fireworks_and_Pm2.5/Fireworks and Pm2.5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KrisWu/KrisWu.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KrisWu/KrisWu.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LaborDay/laborday.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LaborDay/laborday.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Liziqi/liziqi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Liziqi/liziqi.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lychee/lychee.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lychee/lychee.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PUBG-juediqiusheng-data_analysis/20G 绝地求生比赛数据集分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PUBG-juediqiusheng-data_analysis/20G 绝地求生比赛数据集分析.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UIAutoDemo" beforeDir="false" afterPath="$PROJECT_DIR$/UIAutoDemo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wechat_article_collector/article_collector.py" beforeDir="false" afterPath="$PROJECT_DIR$/Wechat_article_collector/article_collector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wechat_article_collector/gzh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wechat_article_collector/gzh.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Weibo_Comment_Pics/photourl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Weibo_Comment_Pics/photourl.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pm2.5/readcsv2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pm2.5/readcsv2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shixiseng_packet_capture/com_detailed.csv" beforeDir="false" afterPath="$PROJECT_DIR$/shixiseng_packet_capture/com_detailed.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shixiseng_packet_capture/job_detailed.csv" beforeDir="false" afterPath="$PROJECT_DIR$/shixiseng_packet_capture/job_detailed.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shixiseng_packet_capture/job_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/shixiseng_packet_capture/job_list.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shixiseng_packet_capture/sxs_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/shixiseng_packet_capture/sxs_app.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,108 +37,147 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/interesting_python$photo_clawler.coverage" NAME="photo_clawler Coverage Results" MODIFIED="1605683315132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weibo_Comment_Pics" />
+    <SUITE FILE_PATH="coverage/interesting_python$add_hyperlinks.coverage" NAME="add_hyperlinks Coverage Results" MODIFIED="1605748652523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wechat_article_collector" />
+    <SUITE FILE_PATH="coverage/interesting_python$youku_comments.coverage" NAME="youku_comments Coverage Results" MODIFIED="1607994205745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ChangAn" />
+    <SUITE FILE_PATH="coverage/interesting_python$wechat.coverage" NAME="wechat Coverage Results" MODIFIED="1605854077071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wechat_article_collector" />
+    <SUITE FILE_PATH="coverage/interesting_python$1.coverage" NAME="1 Coverage Results" MODIFIED="1608021689421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnmatplotlib" />
+    <SUITE FILE_PATH="coverage/interesting_python$readcsv2.coverage" NAME="readcsv2 Coverage Results" MODIFIED="1608098053902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pm2.5" />
+    <SUITE FILE_PATH="coverage/interesting_python$znss_comments.coverage" NAME="znss_comments Coverage Results" MODIFIED="1605776804827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baidu_Robin" />
+    <SUITE FILE_PATH="coverage/interesting_python$interesting_python.coverage" NAME="interesting-python Coverage Results" MODIFIED="1605854857653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/interesting_python$Country_Raod.coverage" NAME="Country_Raod Coverage Results" MODIFIED="1608191822866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Roads" />
+    <SUITE FILE_PATH="coverage/interesting_python$photo_clawler.coverage" NAME="photo_clawler Coverage Results" MODIFIED="1605690838933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Weibo_Comment_Pics" />
+    <SUITE FILE_PATH="coverage/interesting_python$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1605774686738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LaborDay" />
+    <SUITE FILE_PATH="coverage/interesting_python$article_collector.coverage" NAME="article_collector Coverage Results" MODIFIED="1605852363683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wechat_article_collector" />
+    <SUITE FILE_PATH="coverage/interesting_python$readcsv.coverage" NAME="readcsv Coverage Results" MODIFIED="1608021593908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pm2.5" />
+    <SUITE FILE_PATH="coverage/interesting_python$sxs_app.coverage" NAME="sxs_app Coverage Results" MODIFIED="1606719042168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shixiseng_packet_capture" />
     <SUITE FILE_PATH="coverage/interesting_python$jobleadchina.coverage" NAME="jobleadchina Coverage Results" MODIFIED="1605661379238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ESL" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="photo_clawler.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py">
+      <file leaf-file-name="stopwords.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Baidu_Robin/stopwords.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="znss_comments.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Baidu_Robin/znss_comments.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+            <state relative-caret-position="25">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_inference.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pandas/tests/dtypes/test_inference.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="241" column="16" selection-start-line="241" selection-start-column="16" selection-end-line="241" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="photourl.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Weibo_Comment_Pics/photourl.txt">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pymongo/__init__.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1487216753/builtins.py">
+      <file leaf-file-name="mongo_client.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pymongo/mongo_client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="352" column="4" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="4" />
+            <state relative-caret-position="900">
+              <caret line="79" column="6" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="doctest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/doctest.py">
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CaiXuKun/CaiXuKun/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-642">
-              <caret line="2685" column="8" selection-start-line="2685" selection-start-column="8" selection-end-line="2685" selection-end-column="8" />
+            <state relative-caret-position="325">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="genericpath.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/genericpath.py">
+      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CaiXuKun/CaiXuKun/middlewares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            <state relative-caret-position="400">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <element signature="e#168#194#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pytables.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pandas/io/pytables.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-386">
-              <caret line="772" column="8" selection-start-line="772" selection-start-column="8" selection-end-line="772" selection-end-column="8" />
-            </state>
-          </provider>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CaiXuKun/CaiXuKun/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="sxs_app.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shixiseng_packet_capture/sxs_app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pip/_vendor/requests/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="245" column="13" selection-start-line="245" selection-start-column="13" selection-end-line="245" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cookie.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Weibo_Comment_Pics/cookie.txt">
-          <provider selected="true" editor-type-id="text-editor">
+      <file leaf-file-name="Baidu_Robin.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Baidu_Robin/Baidu_Robin.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UIAutoDemo/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-200">
+              <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Baidu_Robin/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>json</find>
       <find>==None</find>
       <find>self.mid</find>
       <find>photourl.txt</find>
+      <find>for</find>
+      <find>json</find>
+      <find>try</find>
+      <find>login</find>
+      <find>MySQLdb</find>
+      <find>/Users/apple/Desktop/</find>
+      <find>pd.DataFrame</find>
+      <find>DataFrame</find>
+      <find>response.json()</find>
+      <find>cvs</find>
+      <find>csv</find>
+      <find>data</find>
+      <find>to_csv</find>
+      <find>pd</find>
+      <find>read_csv</find>
+      <find>datf</find>
+      <find>date</find>
+      <find>df</find>
+      <find>日期</find>
+      <find>曲线</find>
+      <find>plot</find>
+      <find>to_datetime</find>
+      <find>df\[\'date\'\]\=pd\.to_datetime\(df\[\'date\'\]\,format\=\'\%Y\/\%m\/\%d\'\)\n</find>
+      <find>num</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -133,8 +188,21 @@
       <list>
         <option value="$PROJECT_DIR$/ESL/jobleadchina.py" />
         <option value="$PROJECT_DIR$/Weibo_Comment_Pics/cookie.txt" />
-        <option value="$PROJECT_DIR$/Weibo_Comment_Pics/photourl.txt" />
         <option value="$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py" />
+        <option value="$PROJECT_DIR$/Weibo_Comment_Pics/photourl.txt" />
+        <option value="$PROJECT_DIR$/Baidu_Robin/znss_comments.py" />
+        <option value="$PROJECT_DIR$/Wechat_article_collector/test_model" />
+        <option value="$PROJECT_DIR$/Wechat_article_collector/article_collector.py" />
+        <option value="$PROJECT_DIR$/Wechat_article_collector/gzh.txt" />
+        <option value="$PROJECT_DIR$/Wechat_article_collector/wechat.py" />
+        <option value="$PROJECT_DIR$/Wechat_article_collector/wechat.ipynb" />
+        <option value="$PROJECT_DIR$/Liziqi/liziqi.ipynb" />
+        <option value="$PROJECT_DIR$/shixiseng_packet_capture/sxs_app.py" />
+        <option value="$PROJECT_DIR$/ChangAn/youku_comments.py" />
+        <option value="$PROJECT_DIR$/learnmatplotlib/1.py" />
+        <option value="$PROJECT_DIR$/pm2.5/readcsv.py" />
+        <option value="$PROJECT_DIR$/pm2.5/readcsv2.py" />
+        <option value="$PROJECT_DIR$/Earthquake/eq_final.ipynb" />
       </list>
     </option>
   </component>
@@ -148,10 +216,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="645" />
-    <option name="y" value="45" />
-    <option name="width" value="1257" />
-    <option name="height" value="933" />
+    <option name="x" value="21" />
+    <option name="y" value="297" />
+    <option name="width" value="1890" />
+    <option name="height" value="855" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -168,26 +236,6 @@
               <item name="interesting-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="interesting-python" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="interesting-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interesting-python" type="462c0819:PsiDirectoryNode" />
-              <item name="ESL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interesting-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interesting-python" type="462c0819:PsiDirectoryNode" />
-              <item name="LiveStreaming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interesting-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interesting-python" type="462c0819:PsiDirectoryNode" />
-              <item name="shixiseng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interesting-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interesting-python" type="462c0819:PsiDirectoryNode" />
-              <item name="Weibo_Comment_Pics" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -197,9 +245,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/python/UIAutoDemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,8 +262,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.photo_clawler">
-    <configuration name="jobleadchina" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Country_Raod">
+    <configuration name="interesting-python" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="interesting-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,18 +271,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ESL" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="interesting-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learnmatplotlib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ESL/jobleadchina.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learnmatplotlib/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="photo_clawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Country_Raod" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="interesting-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,25 +307,89 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Weibo_Comment_Pics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Roads" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roads/Country_Raod.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="readcsv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="interesting-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pm2.5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pm2.5/readcsv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="readcsv2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="interesting-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pm2.5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pm2.5/readcsv2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="youku_comments" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="interesting-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChangAn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChangAn/youku_comments.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.jobleadchina" />
-      <item itemvalue="Python.photo_clawler" />
+      <item itemvalue="Jupyter Notebook.interesting-python" />
+      <item itemvalue="Python.youku_comments" />
+      <item itemvalue="Python.readcsv" />
+      <item itemvalue="Python.readcsv2" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.Country_Raod" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.photo_clawler" />
-        <item itemvalue="Python.jobleadchina" />
+        <item itemvalue="Python.Country_Raod" />
+        <item itemvalue="Python.readcsv2" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.readcsv" />
+        <item itemvalue="Python.youku_comments" />
       </list>
     </recent_temporary>
   </component>
@@ -274,34 +404,61 @@
       <option name="presentableId" value="Default" />
       <updated>1605520635831</updated>
     </task>
+    <task id="LOCAL-00001" summary="mysql 存数据">
+      <created>1605777177066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605777177066</updated>
+    </task>
+    <task id="LOCAL-00002" summary="read csv">
+      <created>1608025093025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608025093025</updated>
+    </task>
+    <task id="LOCAL-00003" summary="read csv">
+      <created>1608867089776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608867089776</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="265" height="370" id="Documentation" order="7" sideWeight="0.44227353" side_tool="true" visible="true" weight="0.22248244" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19005328" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.312611" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.357016" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" sideWeight="0.4984985" weight="0.1342701" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09367681" />
+      <window_info anchor="right" id="Remote Host" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15846995" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.34991118" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.12880562" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="6" sideWeight="0.55772644" visible="true" weight="0.22248244" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36056837" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26998225" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="8" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="SOQL Query" order="8" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29129663" />
+      <window_info anchor="bottom" id="Log Viewer" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,6 +466,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mysql 存数据" />
+    <MESSAGE value="read csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="read csv" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -349,11 +511,6 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py</url>
-          <line>142</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py</url>
           <line>48</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
@@ -361,21 +518,6 @@
           <url>file://$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py</url>
           <line>44</line>
           <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py</url>
-          <line>149</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py</url>
-          <line>139</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py</url>
-          <line>104</line>
-          <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py</url>
@@ -399,13 +541,163 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py</url>
-          <line>115</line>
-          <option name="timeStamp" value="64" />
+          <line>142</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py</url>
           <line>128</line>
-          <option name="timeStamp" value="65" />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LaborDay/get_data.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baidu_Robin/znss_comments.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baidu_Robin/znss_comments.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baidu_Robin/znss_comments.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Wechat_article_collector/article_collector.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BSGS_Rent/house_data_crawler.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shixiseng_packet_capture/sxs_app.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shixiseng_packet_capture/sxs_app.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ChangAn/youku_comments.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ChangAn/youku_comments.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ChangAn/youku_comments.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ChangAn/youku_comments.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ChangAn/youku_comments.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ChangAn/youku_comments.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ChangAn/youku_comments.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ChangAn/youku_comments.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pm2.5/readcsv.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pm2.5/readcsv.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pm2.5/readcsv.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pm2.5/readcsv.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pm2.5/readcsv.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pm2.5/readcsv.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pm2.5/readcsv.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pm2.5/readcsv2.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pm2.5/readcsv2.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pm2.5/readcsv2.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Roads/Country_Raod.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Roads/Country_Raod.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="180" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -415,7 +707,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="66" />
+      <option name="time" value="181" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -443,192 +735,104 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>response.json()['data']['data']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>response.json()['data']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>response.json()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
         <expression-string>res.text</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>res.text.find('mblog&amp;act=')</expression-string>
+        <expression-string>list_a</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>list2</expression-string>
+        <expression-string>df['pm25']</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>photo_urls</expression-string>
+        <expression-string>np.array([1,2,3,4])</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>response.json().get('data')</expression-string>
+        <expression-string>df['pm25'].tolist()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>response.json()['data']['max_id']</expression-string>
+        <expression-string>df.pm25</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sort.pm25</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sort.date</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sort</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ESL/data_gm.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/中小学.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/数据分析.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
+    <entry file="file://$PROJECT_DIR$/shixiseng_packet_capture/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1487216753/lxml/etree/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/local_english_teacher.py">
+    <entry file="file://$PROJECT_DIR$/shixiseng_packet_capture/sxs_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="138">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#41#56#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
+    <entry file="file://$PROJECT_DIR$/LuckinCoffee/get_poi_tencent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7130">
-          <caret line="311" selection-start-line="311" selection-end-line="311" />
+        <state relative-caret-position="-7">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pandas/io/common.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pandas/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10534">
-          <caret line="491" column="22" lean-forward="true" selection-start-line="491" selection-start-column="22" selection-end-line="491" selection-end-column="22" />
+        <state relative-caret-position="-9048" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="358" selection-start-line="358" selection-end-line="358" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/jobleadchina.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Mia二维码.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/data_gm.csv">
+    <entry file="file://$PROJECT_DIR$/coffee.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weibo_Comment_Pics/photourl.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/中小学.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/数据分析.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/local_english_teacher.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pandas/core/indexing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="15387">
+          <caret line="702" column="37" selection-start-line="702" selection-start-column="37" selection-end-line="702" selection-end-column="37" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/jobleadchina.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7130">
-          <caret line="311" selection-start-line="311" selection-end-line="311" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pandas/io/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10557">
-          <caret line="492" selection-start-line="492" selection-end-line="492" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/jobleadchina.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="11" column="80" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/data_gm.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/中小学.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/数据分析.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/local_english_teacher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/jobleadchina.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1487216753/lxml/etree/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pandas/io/common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10534">
-          <caret line="491" column="22" selection-start-line="491" selection-start-column="22" selection-end-line="491" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LiveStreaming/stopwords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33624" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LiveStreaming/xigua.ipynb">
@@ -638,115 +842,287 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LiveStreaming/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/pm2.5/pm25.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/shixiseng/font_decode.py">
+    <entry file="file://$PROJECT_DIR$/pm2.5/pm25-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="39" />
+        <state relative-caret-position="7084">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ESL/jobleadchina.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1487216753/numpy/core/_multiarray_umath.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-383">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="40" />
+        <state relative-caret-position="23">
+          <caret line="4582" column="4" selection-start-line="4582" selection-start-column="4" selection-end-line="4582" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fireworks_and_Pm2.5/Fireworks and Pm2.5.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pm2.5/readcsv2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lychee/lychee.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lychee/lychee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-309">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pm2.5/readcsv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Roads/Country_Raod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lychee/salary.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="-615">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lychee/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-431">
+          <caret line="8" column="10" selection-start-line="8" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NY_Plans/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoTV/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learnmatplotlib/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="3" selection-start-line="9" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LaborDay/city_data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LaborDay/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="309" selection-start-line="309" selection-end-line="309" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/json/decoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="354" selection-start-line="354" selection-end-line="354" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pip/_vendor/requests/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="245" column="13" selection-start-line="245" selection-start-column="13" selection-end-line="245" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shixiseng_packet_capture/sxs_app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pandas/io/pytables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-386">
-          <caret line="772" column="8" selection-start-line="772" selection-start-column="8" selection-end-line="772" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/genericpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/doctest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-642">
-          <caret line="2685" column="8" selection-start-line="2685" selection-start-column="8" selection-end-line="2685" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pandas/tests/dtypes/test_inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="241" column="16" selection-start-line="241" selection-start-column="16" selection-end-line="241" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Weibo_Comment_Pics/cookie.txt">
-      <provider selected="true" editor-type-id="text-editor">
+    <entry file="file://$PROJECT_DIR$/LaborDay/laborday.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1487216753/builtins.py">
+    <entry file="file://$PROJECT_DIR$/LaborDay/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JayZhou/get_detail_jay.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="352" column="4" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="4" />
+        <state relative-caret-position="69">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Weibo_Comment_Pics/photourl.txt">
+    <entry file="file://$PROJECT_DIR$/English_names/Babynames.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KrisWu/stopwords.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Weibo_Comment_Pics/photo_clawler.py">
+    <entry file="file://$PROJECT_DIR$/KrisWu/KrisWu.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KrisWu/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="35" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChangAn/youku_comments.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        <state relative-caret-position="69">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Earthquake/eq_final.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Airplane/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ESL/jobleadchina.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="27" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ESL/local_english_teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaiXuKun/CaiXuKun/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaiXuKun/CaiXuKun/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaiXuKun/CaiXuKun/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CaiXuKun/CaiXuKun/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="e#168#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baidu_Robin/data.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baidu_Robin/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baidu_Robin/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pymongo/mongo_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="79" column="6" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/pymongo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baidu_Robin/znss_comments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baidu_Robin/Baidu_Robin.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UIAutoDemo/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
         </state>
       </provider>
     </entry>
