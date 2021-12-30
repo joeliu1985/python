@@ -36,4 +36,8 @@ r=requests.post(url=httpurl,json=json.dumps(pyload),headers=headers).text
 print(r)
 print(json.loads(r))
 
+responseJson=requests.get(url='https://voice.baidu.com/newpneumonia/get?target=trend&isCaseIn=1&stage=publish',headers=headers)
+
+print(responseJson.json()['data'])
+
 
