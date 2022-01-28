@@ -3,19 +3,28 @@ import os
 import os.path
 import time
 
+from qilinv10.info import Info
+
 time1 = time.time()
 
 
 def MergeTxt(rootdir, outfile):
     k = open(rootdir + outfile, 'a+')
-    for parent, dirnames, fileList in os.walk(rootdir):#返回三元数组
+    filegroup = []
+    for parent, dirnames, fileList in os.walk(rootdir):  # 返回三元数组
         for file in fileList:
             txtPath = os.path.join(parent, file)
             f = open(txtPath)
-            line=f.read()
-            print(line)
-            k.write(line)
+            oneline = f.read()
+            if len(oneline.split("\t")) > 5:
+                emp1 = Info(oneline, oneline.split("\t")[5])
+                filegroup.append(emp1)
+            k.write(oneline)
     k.close()
+    k = open("D:/info/sortinfo.txt" , 'a+')
+    for i in sorted(filegroup, key=lambda u: u.ip):
+        k.write(i.str)
+
     print("finished")
 
 
