@@ -27,6 +27,6 @@ for file in filenames:
 
 # to print the combined data
 print('Final Sheet:')
-#display(finalexcelsheet)
+print(finalexcelsheet)
 
 finalexcelsheet.to_excel(r'Final.xlsx', index=False)
